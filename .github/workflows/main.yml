@@ -1,1 +1,34 @@
+name: Actualizar noticias I+D
 
+on:
+  schedule:
+    # Cada 2 horas (hora UTC)
+    - cron: "17 */2 * * *"
+  workflow_dispatch: {}   # permite ejecutarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install feedparser requests beautifulsoup4
+
+      - name: Recolectar y filtrar
+        run: python filtrar.py
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noticias.json
+          git diff --cached --quiet || git commit -m "Actualiza noticias I+D $(date -u +'%Y-%m-%d %H:%M')"
+          git push
