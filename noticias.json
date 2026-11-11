@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T17:58:52.875415+00:00",
+ "actualizado": "2026-11-11T18:06:20.195667+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -65,8 +65,8 @@
    "ok": true,
    "metodo": "HTML",
    "url": "https://ust.cl/formacion-e-identidad/noticias",
-   "revisadas": 15,
-   "filtradas": 5,
+   "revisadas": 1,
+   "filtradas": 0,
    "error": null
   },
   {
@@ -107,98 +107,6 @@
   }
  ],
  "noticias": [
-  {
-   "id": "dc63c99bbd97adb5",
-   "titulo": "Ayuda Profesional y Emprendimiento",
-   "url": "https://www.ust.cl/egresados/ayuda-profesional-y-emprendimiento/",
-   "sigla": "UST",
-   "universidad": "Universidad Santo Tomás",
-   "conce": true,
-   "categorias": [
-    "Emprendimiento"
-   ],
-   "hashtags": [
-    "Emprendimiento"
-   ],
-   "imagen": "https://www.ust.cl/web/wp-content/uploads/sites/6/2024/09/egresados-atencion-1.png",
-   "foto_buscada": true,
-   "fecha": null,
-   "visto": "2026-11-11T17:41:49.402908+00:00"
-  },
-  {
-   "id": "a03eb839d8fd4c7a",
-   "titulo": "Dirección y Centros de Investigación",
-   "url": "https://ust.cl/vinculacion-con-el-medio/direccion-y-centros-de-investigacion/",
-   "sigla": "UST",
-   "universidad": "Universidad Santo Tomás",
-   "conce": true,
-   "categorias": [
-    "I+D"
-   ],
-   "hashtags": [
-    "Investigación"
-   ],
-   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2024/09/img_estudiantes-1.png",
-   "foto_buscada": true,
-   "fecha": null,
-   "visto": "2026-11-11T17:41:49.402908+00:00"
-  },
-  {
-   "id": "5f9b686957d052c6",
-   "titulo": "Investigadores e Investigadoras",
-   "url": "https://www.ust.cl/investigacion-e-innovacion/acerca-de/investigadores-e-investigadoras/",
-   "sigla": "UST",
-   "universidad": "Universidad Santo Tomás",
-   "conce": true,
-   "categorias": [
-    "I+D"
-   ],
-   "hashtags": [
-    "Investigación"
-   ],
-   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2025/04/Centros-de-Investigacion-1.jpg",
-   "foto_buscada": true,
-   "fecha": null,
-   "visto": "2026-11-11T17:41:49.402908+00:00"
-  },
-  {
-   "id": "19bfd7591d72ab4a",
-   "titulo": "Centro de​ Innovación Educativa – CIED​",
-   "url": "https://www.ust.cl/investigacion-e-innovacion/innovacion/centro-de-innovacion-educativa-cied/",
-   "sigla": "UST",
-   "universidad": "Universidad Santo Tomás",
-   "conce": true,
-   "categorias": [
-    "Innovación y transferencia"
-   ],
-   "hashtags": [
-    "Innovación"
-   ],
-   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2026/01/Home-ok-3-scaled-1.jpg",
-   "foto_buscada": true,
-   "fecha": null,
-   "visto": "2026-11-11T17:41:49.402908+00:00"
-  },
-  {
-   "id": "59d837c3b4619670",
-   "titulo": "Innovación Científico-Tecnológica​",
-   "url": "https://www.ust.cl/investigacion-e-innovacion/innovacion/innovacion-cientifico-tecnologica/",
-   "sigla": "UST",
-   "universidad": "Universidad Santo Tomás",
-   "conce": true,
-   "categorias": [
-    "I+D",
-    "Innovación y transferencia"
-   ],
-   "hashtags": [
-    "Investigación",
-    "Innovación"
-   ],
-   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2024/09/MG_4547-Back-2.jpg",
-   "foto_buscada": true,
-   "fecha": null,
-   "visto": "2026-11-11T17:41:49.402908+00:00"
-  },
   {
    "id": "68d72c6db2c6c581",
    "titulo": "Investigador FEN UNAB presentó estudio sobre trabajo remoto y salarios en nueva edición del ciclo “Ciencia que Incide”",
