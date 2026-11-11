@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T17:41:49.402908+00:00",
+ "actualizado": "2026-11-11T17:58:52.875415+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -117,6 +117,11 @@
    "categorias": [
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://www.ust.cl/web/wp-content/uploads/sites/6/2024/09/egresados-atencion-1.png",
+   "foto_buscada": true,
    "fecha": null,
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -130,6 +135,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2024/09/img_estudiantes-1.png",
+   "foto_buscada": true,
    "fecha": null,
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -143,6 +153,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2025/04/Centros-de-Investigacion-1.jpg",
+   "foto_buscada": true,
    "fecha": null,
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -156,6 +171,11 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Innovación"
+   ],
+   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2026/01/Home-ok-3-scaled-1.jpg",
+   "foto_buscada": true,
    "fecha": null,
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -170,6 +190,12 @@
     "I+D",
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Investigación",
+    "Innovación"
+   ],
+   "imagen": "http://www.ust.cl/web/wp-content/uploads/sites/6/2024/09/MG_4547-Back-2.jpg",
+   "foto_buscada": true,
    "fecha": null,
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -183,6 +209,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Conversatorio-Desconstruccion-del-comportamiento-en-la-busqueda-de-empleo_CRA35-2000x1333-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-11T17:30:24+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -196,6 +227,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/grupos-de-investigacion-.png?class=full",
+   "foto_buscada": true,
    "fecha": "2026-11-11T16:21:38+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -209,6 +245,12 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Biobío",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/Profesor-Emerito-Tom-Richtler-18-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-10T21:14:55+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -222,6 +264,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/hector-valdes-brasil.png?class=full",
+   "foto_buscada": true,
    "fecha": "2026-11-10T20:58:12+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -235,6 +282,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Copia-de-IMG_6720.jpg",
+   "foto_buscada": true,
    "fecha": "2026-11-10T20:52:45+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -248,6 +300,12 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/CIE-12-1024x768.png",
+   "foto_buscada": true,
    "fecha": "2026-11-10T20:11:08+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -261,6 +319,12 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/Congreso-1-1080x810.jpg",
+   "foto_buscada": true,
    "fecha": "2026-11-10T19:44:30+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -274,6 +338,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2024/10/jp-corvalan.png",
+   "foto_buscada": true,
    "fecha": "2026-11-10T19:28:10+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -287,6 +356,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Volcan-Socompa-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-10T17:19:10+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -300,6 +374,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://www.udd.cl/wp-content/uploads/2026/11/whatsapp-image-2026-11-10-at-12-47-57-960x524.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-10T16:02:32+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -313,6 +392,12 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Educación",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-11-06-at-1.52.24-PM.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-10T13:10:03+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -326,6 +411,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Economia.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-10T12:46:32+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -339,6 +429,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/1a-1080x936.jpeg",
+   "foto_buscada": true,
    "fecha": "2026-11-09T19:44:07+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -354,6 +449,13 @@
     "Innovación y transferencia",
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Startups",
+    "Investigación",
+    "Innovación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/taller-power-pitch.png?class=full",
+   "foto_buscada": true,
    "fecha": "2026-11-09T16:48:49+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -367,6 +469,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-11-05-at-10.46.12-AM-e1793892884680.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-09T15:55:46+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -380,6 +487,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Capic-20026-JN-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-09T15:17:55+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -393,6 +505,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Rosario-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-09T13:53:29+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -406,6 +523,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Pablo-Oyarzun_800x533.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-06T21:47:05+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -419,6 +541,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/fc637963-d1f0-4d0f-88e3-66f03e30a78b.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-06T19:24:32+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -432,6 +559,12 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Salud",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/IMG_20261027_150126-scaled.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-06T13:47:42+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -445,6 +578,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/Edherwaiss-y-Natalia-1080x864.jpg",
+   "foto_buscada": true,
    "fecha": "2026-11-05T17:35:07+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -458,6 +596,11 @@
    "categorias": [
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/11/Semillero-Demo-Day-2026-93-edited-1024x500.jpg",
+   "foto_buscada": true,
    "fecha": "2026-11-05T16:18:22+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -472,6 +615,13 @@
     "Innovación y transferencia",
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Corfo",
+    "Emprendimiento",
+    "Innovación"
+   ],
+   "imagen": "https://www.udd.cl/wp-content/uploads/2026/11/udd-corfo-edited.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-05T15:12:07+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -485,6 +635,12 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Salud",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Comite_externo_cs_de_la_rehabilitacion__291026_083-2000x1333-2-e1793890406915.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-05T15:01:06+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -498,6 +654,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-10-26-at-12.58.25-1-e1793826153967.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-04T21:05:27+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -511,6 +672,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://www.udd.cl/wp-content/uploads/2026/11/alex-godoy-eta-up_.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-04T20:29:36+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -524,6 +690,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Hug-Benitez_en-Antartica-2025-800x533-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-03T20:40:55+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -537,6 +708,12 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "MedioAmbiente",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-10-13-at-11.44.59-AM-1-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-03T19:43:13+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -550,6 +727,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Ornitologia-1-scaled.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-03T18:13:34+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -563,6 +745,12 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Salud",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Medicina-Ansiedad-scaled.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-03T13:49:46+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -576,6 +764,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2023/02/La-Segunda-800x530-1.jpg",
+   "foto_buscada": true,
    "fecha": "2026-11-02T20:09:47+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -589,6 +782,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Premio-1-e1793645427873.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-02T19:13:52+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -602,6 +800,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/winston.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-02T17:41:18+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -615,6 +818,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-11-02-at-13.50.51-e1793639674292.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-02T17:17:14+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -628,6 +836,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/foto-ppal-inauguracion-baja.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-02T16:55:23+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -642,6 +855,13 @@
     "Innovación y transferencia",
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Emprendimiento",
+    "Alimentos",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Nutricion-4.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-02T16:53:04+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -655,6 +875,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/flen.estudio.webp",
+   "foto_buscada": true,
    "fecha": "2026-11-02T14:26:48+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -668,6 +893,12 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Salud",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/IMG_8221-2000x1333-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-30T15:15:11+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -681,6 +912,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/Trumpler-19_800x533.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-29T21:10:06+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -695,6 +931,13 @@
     "I+D",
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "TransferenciaTecnológica",
+    "Investigación",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/Presentacion-ponencia_22-10-26_Silva_Toro_Yevenes-e1793304796672.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-29T20:14:04+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -708,6 +951,12 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "MedioAmbiente",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/Conf-America-Sustentable_800x533.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-29T19:40:57+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -721,6 +970,13 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Salud",
+    "Educación",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/Academicas-Obstetricia.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-29T15:11:55+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -734,6 +990,12 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Salud",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/IMG_1368-3-scaled-e1793282793327.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-29T14:08:51+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -747,6 +1009,11 @@
    "categorias": [
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/10/Asistentes-Taller-Elizabeth-1-819x1024.jpg",
+   "foto_buscada": true,
    "fecha": "2026-10-28T19:24:22+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -761,6 +1028,12 @@
     "Innovación y transferencia",
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Emprendimiento",
+    "Innovación"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/10/20261021_093244-2-1024x618.jpg",
+   "foto_buscada": true,
    "fecha": "2026-10-28T18:55:41+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -774,6 +1047,11 @@
    "categorias": [
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/10/20261016_104041-2.jpg-1024x386.jpeg",
+   "foto_buscada": true,
    "fecha": "2026-10-28T15:12:06+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -788,6 +1066,12 @@
     "I+D",
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Emprendimiento",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/WhatsApp-Image-2026-10-26-at-8.59.11-AM-2-1.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-28T14:54:04+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -801,6 +1085,11 @@
    "categorias": [
     "I+D"
    ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/10/7-e1793198866753.webp",
+   "foto_buscada": true,
    "fecha": "2026-10-28T14:49:47+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -814,6 +1103,11 @@
    "categorias": [
     "Innovación y transferencia"
    ],
+   "hashtags": [
+    "Innovación"
+   ],
+   "imagen": null,
+   "foto_buscada": true,
    "fecha": "2026-10-21T18:37:45+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -827,6 +1121,12 @@
    "categorias": [
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Startups",
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/10/20261007_125306-2-1024x543.jpg",
+   "foto_buscada": true,
    "fecha": "2026-10-14T17:41:33+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -840,6 +1140,13 @@
    "categorias": [
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Startups",
+    "Agua",
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/10/Club-del-Agua-2-1.png",
+   "foto_buscada": true,
    "fecha": "2026-10-14T14:07:57+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   },
@@ -854,6 +1161,13 @@
     "Innovación y transferencia",
     "Emprendimiento"
    ],
+   "hashtags": [
+    "Corfo",
+    "Emprendimiento",
+    "Innovación"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/10/20261006_155208-1024x778.jpg",
+   "foto_buscada": true,
    "fecha": "2026-10-09T15:25:28+00:00",
    "visto": "2026-11-11T17:41:49.402908+00:00"
   }
