@@ -188,13 +188,16 @@ def leer_html(contenido, url_base):
     vistos, items = set(), []
     for a in soup.find_all("a", href=True):
         texto = " ".join(a.get_text(" ", strip=True).split())
-        if not (30 <= len(texto) <= 220):
+        # Un titular de noticia es una frase larga (no un ítem de menú)
+        if not (45 <= len(texto) <= 220) or len(texto.split()) < 6:
             continue
         enlace = urljoin(url_base, a["href"])
         p = urlparse(enlace)
         if p.scheme not in ("http", "https") or not p.netloc.endswith(dominio):
             continue
-        if not [s for s in p.path.split("/") if s] or enlace in vistos:
+        partes = [s for s in p.path.split("/") if s]
+        # La dirección de una noticia suele terminar en un "slug" largo: palabras-con-guiones
+        if not partes or partes[-1].count("-") < 4 or enlace in vistos:
             continue
         vistos.add(enlace)
         items.append({"titulo": texto, "url": enlace, "fecha": None, "imagen": None})
@@ -227,6 +230,9 @@ def main():
     if SALIDA.exists():
         try:
             for it in json.loads(SALIDA.read_text(encoding="utf-8")).get("noticias", []):
+                # Descarta titulares viejos que en realidad eran ítems de menú
+                if not it.get("fecha") and len(it.get("titulo", "")) < 45:
+                    continue
                 previas[it["id"]] = it
         except (json.JSONDecodeError, KeyError):
             previas = {}
@@ -255,7 +261,7 @@ def main():
                 "conce": f["conce"],
                 "categorias": cats,
                 "hashtags": hashtags(it["titulo"], cats),
-                "imagen": imagen,
+                "imagen": imagen.replace("http://", "https://", 1) if imagen else None,
                 "foto_buscada": True,
                 "fecha": it["fecha"] or previa.get("fecha"),
                 "visto": previa.get("visto", ahora.isoformat()),
