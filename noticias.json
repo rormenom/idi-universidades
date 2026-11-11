@@ -1,0 +1,861 @@
+{
+ "actualizado": "2026-11-11T17:41:49.402908+00:00",
+ "categorias": [
+  "I+D",
+  "Innovación y transferencia",
+  "Emprendimiento"
+ ],
+ "fuentes": [
+  {
+   "sigla": "UdeC",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://noticias.udec.cl/feed/",
+   "revisadas": 10,
+   "filtradas": 1,
+   "error": null
+  },
+  {
+   "sigla": "UBB",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://noticias.ubiobio.cl/feed/",
+   "revisadas": 20,
+   "filtradas": 3,
+   "error": null
+  },
+  {
+   "sigla": "UCSC",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
+   "revisadas": 10,
+   "filtradas": 3,
+   "error": null
+  },
+  {
+   "sigla": "UDD",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://www.udd.cl/feed/",
+   "revisadas": 9,
+   "filtradas": 3,
+   "error": null
+  },
+  {
+   "sigla": "USS",
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
+   "filtradas": 0,
+   "error": "HTTP 403"
+  },
+  {
+   "sigla": "UNAB",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://noticias.unab.cl/feed/",
+   "revisadas": 200,
+   "filtradas": 31,
+   "error": null
+  },
+  {
+   "sigla": "UST",
+   "ok": true,
+   "metodo": "HTML",
+   "url": "https://ust.cl/formacion-e-identidad/noticias",
+   "revisadas": 15,
+   "filtradas": 5,
+   "error": null
+  },
+  {
+   "sigla": "UDLA",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://actualidad.udla.cl/feed/",
+   "revisadas": 12,
+   "filtradas": 3,
+   "error": null
+  },
+  {
+   "sigla": "USM",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://usm.cl/feed/",
+   "revisadas": 5,
+   "filtradas": 2,
+   "error": null
+  },
+  {
+   "sigla": "3IE-USM",
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://3ie.usm.cl/feed/",
+   "revisadas": 10,
+   "filtradas": 8,
+   "error": null
+  },
+  {
+   "sigla": "UCT-DIRITT",
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
+   "filtradas": 0,
+   "error": "SSLError"
+  }
+ ],
+ "noticias": [
+  {
+   "id": "dc63c99bbd97adb5",
+   "titulo": "Ayuda Profesional y Emprendimiento",
+   "url": "https://www.ust.cl/egresados/ayuda-profesional-y-emprendimiento/",
+   "sigla": "UST",
+   "universidad": "Universidad Santo Tomás",
+   "conce": true,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "fecha": null,
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "a03eb839d8fd4c7a",
+   "titulo": "Dirección y Centros de Investigación",
+   "url": "https://ust.cl/vinculacion-con-el-medio/direccion-y-centros-de-investigacion/",
+   "sigla": "UST",
+   "universidad": "Universidad Santo Tomás",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": null,
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "5f9b686957d052c6",
+   "titulo": "Investigadores e Investigadoras",
+   "url": "https://www.ust.cl/investigacion-e-innovacion/acerca-de/investigadores-e-investigadoras/",
+   "sigla": "UST",
+   "universidad": "Universidad Santo Tomás",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": null,
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "19bfd7591d72ab4a",
+   "titulo": "Centro de​ Innovación Educativa – CIED​",
+   "url": "https://www.ust.cl/investigacion-e-innovacion/innovacion/centro-de-innovacion-educativa-cied/",
+   "sigla": "UST",
+   "universidad": "Universidad Santo Tomás",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": null,
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "59d837c3b4619670",
+   "titulo": "Innovación Científico-Tecnológica​",
+   "url": "https://www.ust.cl/investigacion-e-innovacion/innovacion/innovacion-cientifico-tecnologica/",
+   "sigla": "UST",
+   "universidad": "Universidad Santo Tomás",
+   "conce": true,
+   "categorias": [
+    "I+D",
+    "Innovación y transferencia"
+   ],
+   "fecha": null,
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "68d72c6db2c6c581",
+   "titulo": "Investigador FEN UNAB presentó estudio sobre trabajo remoto y salarios en nueva edición del ciclo “Ciencia que Incide”",
+   "url": "https://noticias.unab.cl/investigador-fen-unab-presento-estudio-sobre-trabajo-remoto-y-salarios-en-nueva-edicion-del-ciclo-ciencia-que-incide/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-11T17:30:24+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "a29aee4124729cba",
+   "titulo": "Grupos de investigación UCSC proyectan desafíos para 2027",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/grupos-de-investigacion-ucsc-proyectan-desafios-para-2027/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-11T16:21:38+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "2aaf1c96aaadd533",
+   "titulo": "Dr. Tom Richtler es investido como Profesor Emérito de la Universidad de Concepción por su compromiso académico y trayectoria científica",
+   "url": "https://noticias.udec.cl/dr-tom-richtler-es-investido-como-profesor-emerito-de-la-universidad-de-concepcion-por-su-compromiso-academico-y-trayectoria-cientifica/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T21:14:55+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "e311ad6895cf2fc9",
+   "titulo": "UCSC explora nuevas oportunidades de investigación en Brasil",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/colaboracion-cientifica-internacional-ucsc-brasil/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T20:58:12+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "6214d3e420fa86af",
+   "titulo": "Escuela de Terapia Ocupacional UDLA promueve la investigación a través de encuentro académico",
+   "url": "https://actualidad.udla.cl/2026/11/escuela-de-terapia-ocupacional-udla-promueve-la-investigacion-a-traves-de-encuentro-academico/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T20:52:45+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "f3b2afbf03f82c96",
+   "titulo": "Facultad de Educación participa en el VII Congreso Interdisciplinario de Investigación en Educación (CIIE 2026)",
+   "url": "https://actualidad.udla.cl/2026/11/udla-ciie-2026-investigacion-educativa/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T20:11:08+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "995fb463c7ebfb4c",
+   "titulo": "Académicos/as y estudiantes de la FEDUH UBB participaron en el Congreso Interdisciplinario de Investigación en Educación",
+   "url": "https://noticias.ubiobio.cl/2026/11/10/academicos-as-y-estudiantes-de-la-feduh-ubb-participaron-en-el-congreso-interdisciplinario-de-investigacion-en-educacion/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T19:44:30+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "330b6c37467a3cc4",
+   "titulo": "Columna de opinión Decano Juan Pablo Corvalán: La calidad en práctica: investigación-creación en el territorio",
+   "url": "https://actualidad.udla.cl/2026/11/investigacion-creacion-calidad-academica/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T19:28:10+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "f1343dc98e13ca31",
+   "titulo": "Investigadores de UNAB y Ckelar Volcanes impulsan reconocimiento mundial de la avalancha volcánica del Socompa",
+   "url": "https://noticias.unab.cl/investigadores-de-unab-y-ckelar-volcanes-impulsan-reconocimiento-mundial-de-la-avalancha-volcanica-del-socompa/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T17:19:10+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "f3eebbf7ac574645",
+   "titulo": "Investigadora UDD crea innovador producto para limpiar úlceras cutáneas y heridas crónicas de manera rápida, simple y eficaz",
+   "url": "https://www.udd.cl/noticias/2026/11/10/investigadora-udd-crea-innovador-producto-para-limpiar-ulceras-cutaneas-y-heridas-cronicas-de-manera-rapida-simple-y-eficaz/",
+   "sigla": "UDD",
+   "universidad": "Universidad del Desarrollo",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T16:02:32+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "1cd46bb444bf581f",
+   "titulo": "Docente UNAB obtiene beca y completa programa de liderazgo e innovación de Georgetown University",
+   "url": "https://noticias.unab.cl/docente-unab-obtiene-beca-y-completa-programa-de-liderazgo-e-innovacion-de-georgetown-university/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-11-10T13:10:03+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "cecb2494f447a66c",
+   "titulo": "Economía y Negocios UNAB presentó investigaciones sobre empleo y riesgo climático en congreso nacional",
+   "url": "https://noticias.unab.cl/economia-y-negocios-unab-presento-investigaciones-sobre-empleo-y-riesgo-climatico-en-congreso-nacional/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-10T12:46:32+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "da66af39212bac7b",
+   "titulo": "Premian investigaciones de FACE UBB sobre transparencia pública y transformaciones digitales en Congreso ASFAE 2026",
+   "url": "https://noticias.ubiobio.cl/2026/11/09/premian-investigaciones-de-face-ubb-sobre-transparencia-publica-y-transformaciones-digitales-en-congreso-asfae-2026/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-09T19:44:07+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "c0203d625c594367",
+   "titulo": "FIUT UCSC fortalece la comunicación científica de investigadores con Power Pitch",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/habilidades-comunicacionales-investigadores-ucsc/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D",
+    "Innovación y transferencia",
+    "Emprendimiento"
+   ],
+   "fecha": "2026-11-09T16:48:49+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "7d24c84151b353a2",
+   "titulo": "Proyecto UNAB obtiene financiamiento Endowment I+D 2025 para desarrollar una app que facilite el acceso a la PrEP",
+   "url": "https://noticias.unab.cl/proyecto-unab-obtiene-financiamiento-endowment-id-2025-para-desarrollar-una-app-que-facilite-el-acceso-a-la-prep/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-09T15:55:46+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "ade70557adaf5758",
+   "titulo": "Director y estudiante del Magíster en Tributación UNAB presentaron investigaciones en CAPIC 2026",
+   "url": "https://noticias.unab.cl/director-y-estudiante-del-magister-en-tributacion-unab-presentaron-investigaciones-en-capic-2026/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-09T15:17:55+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "5e79d77656f3b7bc",
+   "titulo": "Trabajo Social UNAB presentó investigaciones sobre desigualdad y derechos en Argentina",
+   "url": "https://noticias.unab.cl/trabajo-social-unab-presento-investigaciones-sobre-desigualdad-y-derechos-en-argentina/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-09T13:53:29+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "4c30d3ba30d9fa7e",
+   "titulo": "Investigador UNAB se incorpora al comité editorial de la revista Scientific Reports, de Nature Portfolio",
+   "url": "https://noticias.unab.cl/investigador-unab-se-incorpora-al-comite-editorial-de-la-revista-scientific-reports-de-nature-portfolio/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-06T21:47:05+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "bd57851870a9ffea",
+   "titulo": "Investigador del Instituto de Ciencias Biomédicas UNAB recibe el Premio Científico Joven Destacado 2026",
+   "url": "https://noticias.unab.cl/investigador-del-instituto-de-ciencias-biomedicas-unab-recibe-el-premio-cientifico-joven-destacado-2026/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-06T19:24:32+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "b8cbcd64798df768",
+   "titulo": "UNAB fortalece el acceso a la evidencia científica para profesionales de su red de Campos Clínicos",
+   "url": "https://noticias.unab.cl/unab-fortalece-el-acceso-a-la-evidencia-cientifica-para-profesionales-de-su-red-de-campos-clinicos/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-06T13:47:42+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "1d9db1dab5782267",
+   "titulo": "De la música a las matemáticas: estudiantes de Pedagogía UBB representarán a Chile en feria científica internacional en Indonesia",
+   "url": "https://noticias.ubiobio.cl/2026/11/05/de-la-musica-a-las-matematicas-estudiantes-de-pedagogia-ubb-representaran-a-chile-en-feria-cientifica-internacional-en-indonesia/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-05T17:35:07+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "3632f0368358ddb8",
+   "titulo": "Semillero 3IE-USM definió sus proyectos ganadores en esperado torneo Demo Day",
+   "url": "https://3ie.usm.cl/semillero-3ie-usm-definio-sus-proyectos-ganadores-en-esperado-torneo-demo-day/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "fecha": "2026-11-05T16:18:22+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "6811c19cbc1b8fd3",
+   "titulo": "UDD y Corfo fortalecen vínculos para impulsar el emprendimiento y la innovación",
+   "url": "https://www.udd.cl/noticias/2026/11/05/udd-y-corfo-fortalecen-vinculos-para-impulsar-el-emprendimiento-y-la-innovacion/",
+   "sigla": "UDD",
+   "universidad": "Universidad del Desarrollo",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia",
+    "Emprendimiento"
+   ],
+   "fecha": "2026-11-05T15:12:07+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "0dd8b597eb732d73",
+   "titulo": "Facultad de Ciencias de la Rehabilitación UNAB realiza el Consejo Asesor con referentes del sector salud, innovación y empleabilidad",
+   "url": "https://noticias.unab.cl/facultad-de-ciencias-de-la-rehabilitacion-unab-realiza-el-consejo-asesor-con-referentes-del-sector-salud-innovacion-y-empleabilidad/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-11-05T15:01:06+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "4656c903545c1984",
+   "titulo": "Académico UNAB Luis Valenzuela presentó en México investigación sobre literatura y crimen",
+   "url": "https://noticias.unab.cl/academico-unab-luis-valenzuela-presento-en-mexico-investigacion-sobre-literatura-y-crimen/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-04T21:05:27+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "fa0ae886eab997e1",
+   "titulo": "Derecho e Ingeniería UDD se suman a programa internacional de investigación en transición energética",
+   "url": "https://www.udd.cl/noticias/2026/11/04/derecho-e-ingenieria-udd-se-suman-a-programa-internacional-de-investigacion-en-transicion-energetica/",
+   "sigla": "UDD",
+   "universidad": "Universidad del Desarrollo",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-04T20:29:36+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "bc1720352b290b30",
+   "titulo": "Investigador UNAB liderará iniciativa internacional para enfrentar las bioinvasiones en la Antártica",
+   "url": "https://noticias.unab.cl/investigador-unab-liderara-iniciativa-internacional-para-enfrentar-las-bioinvasiones-en-la-antartica/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-03T20:40:55+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "3881ce74d5d333c6",
+   "titulo": "Hub de Negocios Sostenibles y Relaciones Internacionales UNAB impulsan formación internacional en innovación y sostenibilidad en Mendoza",
+   "url": "https://noticias.unab.cl/hub-de-negocios-sostenibles-y-relaciones-internacionales-unab-impulsan-formacion-internacional-en-innovacion-y-sostenibilidad-en-mendoza/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-11-03T19:43:13+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "973250d0cfd72686",
+   "titulo": "UNAB destacó entre las tres instituciones con más investigaciones en congreso de ornitología",
+   "url": "https://noticias.unab.cl/unab-destaco-entre-las-tres-instituciones-con-mas-investigaciones-en-congreso-de-ornitologia/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-03T18:13:34+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "484681d75042c97d",
+   "titulo": "Medicina UNAB presentó investigaciones sobre ansiedad y formación clínica",
+   "url": "https://noticias.unab.cl/medicina-unab-presento-investigaciones-sobre-ansiedad-y-formacion-clinica/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-03T13:49:46+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "2d1014c785882ec2",
+   "titulo": "La Segunda | Carta al director de Pierre Romagnoli: rigor científico",
+   "url": "https://noticias.unab.cl/la-segunda-carta-al-director-de-pierre-romagnoli-rigor-cientifico/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-02T20:09:47+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "287845cca9744ba9",
+   "titulo": "Académica UNAB recibe premio internacional por investigación sobre mujeres profesoras de física",
+   "url": "https://noticias.unab.cl/academica-unab-recibe-premio-internacional-por-investigacion-sobre-mujeres-profesoras-de-fisica/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-02T19:13:52+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "613f860bff3e3a8a",
+   "titulo": "Doctorando UNAB realizó pasantía de investigación en el Tecnológico de Monterrey",
+   "url": "https://noticias.unab.cl/doctorando-unab-realizo-pasantia-de-investigacion-en-el-tecnologico-de-monterrey/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-02T17:41:18+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "c22247d587df4caf",
+   "titulo": "Académico UNAB participa en investigación internacional de la OEI sobre supervisión educativa",
+   "url": "https://noticias.unab.cl/academico-unab-participa-en-investigacion-internacional-de-la-oei-sobre-supervision-educativa/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-02T17:17:14+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "70d191376cdd7cb7",
+   "titulo": "Académicos UNAB presentaron investigaciones en CIIE 2026",
+   "url": "https://noticias.unab.cl/academicos-unab-presentaron-investigaciones-en-ciie-2026/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-02T16:55:23+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "1d31a256bd775110",
+   "titulo": "Nutrición UNAB abordó nuevas tendencias de innovación alimentaria y emprendimiento",
+   "url": "https://noticias.unab.cl/nutricion-unab-abordo-nuevas-tendencias-de-innovacion-alimentaria-y-emprendimiento/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia",
+    "Emprendimiento"
+   ],
+   "fecha": "2026-11-02T16:53:04+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "394b7853427c4e77",
+   "titulo": "Investigación de académica UNAB identifica desafíos y barreras que enfrentan las microemprendedoras",
+   "url": "https://noticias.unab.cl/investigacion-de-academica-unab-identifica-desafios-y-barreras-que-enfrentan-las-microemprendedoras/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-11-02T14:26:48+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "b3779b772875b6b6",
+   "titulo": "Tecnología de frontera e innovación interdisciplinaria marcan jornada sobre cáncer oral de Ingeniería y Odontología UNAB",
+   "url": "https://noticias.unab.cl/tecnologia-de-frontera-e-innovacion-interdisciplinaria-marcan-jornada-sobre-cancer-oral-de-ingenieria-unab/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-10-30T15:15:11+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "2d67f9b0e8769671",
+   "titulo": "Investigador UNAB lidera estudio sobre sistemas estelares ocultos en la Vía Láctea",
+   "url": "https://noticias.unab.cl/investigador-unab-lidera-estudio-sobre-sistemas-estelares-ocultos-en-la-via-lactea/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-10-29T21:10:06+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "09f2d42f0805753d",
+   "titulo": "Estudiantes de Licenciatura en Trabajo Social UNAB presentan investigación en congreso internacional",
+   "url": "https://noticias.unab.cl/estudiantes-de-trabajo-social-unab-presentan-investigacion-sobre-chile-cuida-en-congreso-internacional/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D",
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-10-29T20:14:04+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "5c4ef9b572fe0d36",
+   "titulo": "VI Conferencia Internacional América Sustentable reunió investigaciones y experiencias sobre sostenibilidad en UNAB",
+   "url": "https://noticias.unab.cl/vi-conferencia-internacional-america-sustentable-reunio-investigaciones-y-experiencias-sobre-sostenibilidad-en-unab/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-10-29T19:40:57+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "1b7a51a14bb145dc",
+   "titulo": "Obstetricia UNAB presentó innovación docente en jornadas nacionales de educación en salud",
+   "url": "https://noticias.unab.cl/obstetricia-unab-presento-innovacion-docente-en-jornadas-nacionales-de-educacion-en-salud/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-10-29T15:11:55+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "9665a3410f7fa06d",
+   "titulo": "UNAB reúne a expertos en el Segundo Congreso Nacional de Áreas de la Salud de Postgrado para abordar los desafíos de la innovación y la atención integral",
+   "url": "https://noticias.unab.cl/unab-reune-a-expertos-en-el-segundo-congreso-nacional-de-areas-de-la-salud-de-postgrado-para-abordar-los-desafios-de-la-innovacion-y-la-atencion-integral/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-10-29T14:08:51+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "28a2c5600f45ad9c",
+   "titulo": "Taller con perspectiva de género prepara a emprendedores 3IE-USM para generar mejores oportunidades de negocio",
+   "url": "https://3ie.usm.cl/taller-con-perspectiva-de-genero-prepara-a-emprendedores-3ie-usm-para-generar-mejores-oportunidades-de-negocio/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "fecha": "2026-10-28T19:24:22+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "88ca16dacce9714d",
+   "titulo": "3IE-USM dicta talleres sobre innovación y emprendimiento a equipo ejecutor de Navega Chiloé de CEDUC UCN",
+   "url": "https://3ie.usm.cl/3ie-usm-dicta-talleres-sobre-innovacion-y-emprendimiento-a-equipo-ejecutor-de-navega-chiloe-de-ceduc-ucn/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Innovación y transferencia",
+    "Emprendimiento"
+   ],
+   "fecha": "2026-10-28T18:55:41+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "77277166fbb47dab",
+   "titulo": "3IE-USM inicia 7° versión del Curso de Introducción al Mentoring en la región de Atacama",
+   "url": "https://3ie.usm.cl/3ie-usm-inicia-7-version-del-curso-de-introduccion-al-mentoring-en-la-region-de-atacama/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "fecha": "2026-10-28T15:12:06+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "1078242e44211547",
+   "titulo": "Estudiantes de Turismo y Hotelería UNAB presentaron investigaciones y emprendimientos en congreso panamericano",
+   "url": "https://noticias.unab.cl/estudiantes-de-turismo-y-hoteleria-unab-presentaron-investigaciones-y-emprendimientos-en-congreso-panamericano/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D",
+    "Emprendimiento"
+   ],
+   "fecha": "2026-10-28T14:54:04+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "919301446fdbe297",
+   "titulo": "Pedagogía en Inglés UNAB presentó investigaciones en congreso en Valparaíso",
+   "url": "https://noticias.unab.cl/pedagogia-en-ingles-unab-presento-investigaciones-en-congreso-en-valparaiso/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "fecha": "2026-10-28T14:49:47+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "c926e86eeb103ac1",
+   "titulo": "Programa Tantay Atacama® anuncia las 25 soluciones preseleccionadas para sus ocho Desafíos de Innovación",
+   "url": "https://3ie.usm.cl/programa-tantay-atacama-anuncia-las-25-soluciones-preseleccionadas-para-sus-ocho-desafios-de-innovacion/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "fecha": "2026-10-21T18:37:45+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "28eabdd4ffb93b43",
+   "titulo": "Startups 3IE-USM tuvieron destacada participación en la 2a Ronda de Inversión de FIDBAN Chile",
+   "url": "https://3ie.usm.cl/startups-3ie-usm-tuvieron-destacada-participacion-en-la-2a-ronda-de-inversion-de-fidban-chile/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "fecha": "2026-10-14T17:41:33+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "578efc5d6083b779",
+   "titulo": "Startup 3IE-USM busca digitalizar la gestión del agua en condominios, sanitarias y empresas con tecnología IoT",
+   "url": "https://3ie.usm.cl/startup-3ie-usm-busca-digitalizar-la-gestion-del-agua-en-condominios-sanitarias-y-empresas-con-tecnologia-iot/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "fecha": "2026-10-14T14:07:57+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  },
+  {
+   "id": "0168d414fb3649e0",
+   "titulo": "Instituto 3IE-USM y Corfo Valparaíso abordan desafíos conjuntos para seguir fortaleciendo la innovación y el emprendimiento regionales",
+   "url": "https://3ie.usm.cl/instituto-3ie-usm-y-corfo-valparaiso-abordan-desafios-conjuntos-para-seguir-fortaleciendo-la-innovacion-y-el-emprendimiento-regionales/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Innovación y transferencia",
+    "Emprendimiento"
+   ],
+   "fecha": "2026-10-09T15:25:28+00:00",
+   "visto": "2026-11-11T17:41:49.402908+00:00"
+  }
+ ]
+}
