@@ -2,7 +2,7 @@ name: Actualizar noticias I+D
 
 on:
   schedule:
-    # Cada 2 horas (hora UTC). En Chile equivale a cada 2 horas también.
+    # Cada 2 horas (hora UTC)
     - cron: "17 */2 * * *"
   workflow_dispatch: {}   # permite ejecutarlo a mano desde la pestaña Actions
 
