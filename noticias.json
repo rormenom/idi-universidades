@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T18:06:20.195667+00:00",
+ "actualizado": "2026-11-12T00:46:08.112304+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 31,
+   "filtradas": 30,
    "error": null
   },
   {
@@ -107,6 +107,43 @@
   }
  ],
  "noticias": [
+  {
+   "id": "cd130463cc8a01d7",
+   "titulo": "El futuro de Ñuble se construye con universidades, innovación y colaboración territorial",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/el-futuro-de-nuble-se-construye-con-universidades-innovacion-y-colaboracion-territorial/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Innovación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/3-11.jpg?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-11T21:10:24+00:00",
+   "visto": "2026-11-12T00:46:08.112304+00:00"
+  },
+  {
+   "id": "6e048f41853ad8ad",
+   "titulo": "Equipo de investigación UNAB presentó tres trabajos sobre tratamiento de aguas residuales en Ecuador",
+   "url": "https://noticias.unab.cl/equipo-de-investigacion-unab-presento-tres-trabajos-sobre-tratamiento-de-aguas-residuales-en-ecuador/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Agua",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/CIPOA-2026_800-x533.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-11T21:03:56+00:00",
+   "visto": "2026-11-12T00:46:08.112304+00:00"
+  },
   {
    "id": "68d72c6db2c6c581",
    "titulo": "Investigador FEN UNAB presentó estudio sobre trabajo remoto y salarios en nueva edición del ciclo “Ciencia que Incide”",
