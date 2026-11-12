@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T09:52:16.015401+00:00",
+ "actualizado": "2026-11-12T18:21:13.177674+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 1,
+   "filtradas": 0,
    "error": null
   },
   {
@@ -39,7 +39,7 @@
    "metodo": "RSS",
    "url": "https://www.udd.cl/feed/",
    "revisadas": 9,
-   "filtradas": 3,
+   "filtradas": 4,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -107,6 +107,42 @@
   }
  ],
  "noticias": [
+  {
+   "id": "a763cb832254cc10",
+   "titulo": "UDD y Banco de Chile reafirman su alianza para seguir impulsando el emprendimiento en Chile",
+   "url": "https://www.udd.cl/noticias/2026/11/12/udd-y-banco-de-chile-reafirman-su-alianza-para-seguir-impulsando-el-emprendimiento-en-chile/",
+   "sigla": "UDD",
+   "universidad": "Universidad del Desarrollo",
+   "conce": true,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://www.udd.cl/wp-content/uploads/2026/11/udd-y-banco-de-chile-11-2026-960x552.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-12T17:27:59+00:00",
+   "visto": "2026-11-12T18:21:13.177674+00:00"
+  },
+  {
+   "id": "09ade0b417655f87",
+   "titulo": "Académica de UDLA fortalece colaboración científica internacional con pasantía de investigación en España",
+   "url": "https://actualidad.udla.cl/2026/11/academica-de-udla-fortalece-colaboracion-cientifica-internacional-con-pasantia-de-investigacion-en-espana/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/image001-1.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-12T14:01:24+00:00",
+   "visto": "2026-11-12T18:21:13.177674+00:00"
+  },
   {
    "id": "cd130463cc8a01d7",
    "titulo": "El futuro de Ñuble se construye con universidades, innovación y colaboración territorial",
