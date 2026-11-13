@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T17:45:52.608235+00:00",
+ "actualizado": "2026-11-13T23:36:30.083829+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 33,
+   "filtradas": 31,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 2,
+   "filtradas": 4,
    "error": null
   },
   {
@@ -107,6 +107,61 @@
   }
  ],
  "noticias": [
+  {
+   "id": "876b626cd36f0d5f",
+   "titulo": "¿Qué nos enseñan los Premios Nobel 2026? Investigadores UCSC analizan su impacto en la ciencia y la sociedad",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/premios-nobel-2026-especialistas-ucsc/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/premio-nobel-.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-13T19:48:18+00:00",
+   "visto": "2026-11-13T23:36:30.083829+00:00"
+  },
+  {
+   "id": "54bbf62ec434b9d9",
+   "titulo": "Universidad de Las Américas finaliza ciclo de charlas en lingüística convocando a destacadas investigadoras nacionales",
+   "url": "https://actualidad.udla.cl/2026/11/ciclo-charlas-linguistica-investigadoras/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/03-1-edited.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-13T19:23:23+00:00",
+   "visto": "2026-11-13T23:36:30.083829+00:00"
+  },
+  {
+   "id": "a64913890d38bf1d",
+   "titulo": "Innovador proyecto UCSC iniciará licenciamiento tras beneficiar a más de 300 profesores de Religión",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/innovador-proyecto-ucsc-iniciara-licenciamiento-tras-beneficiar-a-mas-de-300-profesores-de-religion/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "TransferenciaTecnológica",
+    "Innovación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/img_nota_web_CREO.png?class=large",
+   "foto_buscada": true,
+   "fecha": "2026-11-13T18:52:00+00:00",
+   "visto": "2026-11-13T23:36:30.083829+00:00"
+  },
   {
    "id": "7c07fc0ef9997888",
    "titulo": "Académicos y estudiante UNAB presentaron investigaciones en las XXII Jornadas Nacionales de Derecho Penal",
@@ -233,6 +288,25 @@
    "foto_buscada": true,
    "fecha": "2026-11-12T14:01:24+00:00",
    "visto": "2026-11-12T18:21:13.177674+00:00"
+  },
+  {
+   "id": "7d0f5d5da783f488",
+   "titulo": "Escolares de la Región de Valparaíso conocieron experiencias científicas en la Tercera Feria Interuniversitaria STEAM en UDLA",
+   "url": "https://actualidad.udla.cl/2026/11/escolares-de-la-region-de-valparaiso-conocieron-experiencias-cientificas-en-la-tercera-feria-interuniversitaria-steam-en-udla/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Feria-Interuniversitaria-STEAM-39-1024x683.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-12T11:17:46+00:00",
+   "visto": "2026-11-13T23:36:30.083829+00:00"
   },
   {
    "id": "cd130463cc8a01d7",
