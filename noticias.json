@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T18:21:13.177674+00:00",
+ "actualizado": "2026-11-13T01:06:10.512823+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -107,6 +107,25 @@
   }
  ],
  "noticias": [
+  {
+   "id": "77f162aaeaa162f4",
+   "titulo": "Startups 3IE-USM participan en el lanzamiento de nuevo programa CoCrea Valparaíso",
+   "url": "https://3ie.usm.cl/startups-3ie-usm-participan-en-el-lanzamiento-de-nuevo-programa-cocrea-valparaiso/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Startups",
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/11/20261110_093922-scaled-e1794509556422-1024x611.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-12T18:58:37+00:00",
+   "visto": "2026-11-13T01:06:10.512823+00:00"
+  },
   {
    "id": "a763cb832254cc10",
    "titulo": "UDD y Banco de Chile reafirman su alianza para seguir impulsando el emprendimiento en Chile",
