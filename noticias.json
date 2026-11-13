@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T09:33:48.405969+00:00",
+ "actualizado": "2026-11-13T17:45:52.608235+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -39,7 +39,7 @@
    "metodo": "RSS",
    "url": "https://www.udd.cl/feed/",
    "revisadas": 9,
-   "filtradas": 4,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 30,
+   "filtradas": 33,
    "error": null
   },
   {
@@ -107,6 +107,78 @@
   }
  ],
  "noticias": [
+  {
+   "id": "7c07fc0ef9997888",
+   "titulo": "Académicos y estudiante UNAB presentaron investigaciones en las XXII Jornadas Nacionales de Derecho Penal",
+   "url": "https://noticias.unab.cl/academicos-y-estudiante-unab-presentaron-investigaciones-en-las-xxii-jornadas-nacionales-de-derecho-penal/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/IMG_1905-scaled-e1794590460591.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-13T17:28:49+00:00",
+   "visto": "2026-11-13T17:45:52.608235+00:00"
+  },
+  {
+   "id": "d5768636c5400f07",
+   "titulo": "Estudiante de Derecho UNAB presentó investigación sobre el derecho al olvido en jornadas nacionales de derechos humanos",
+   "url": "https://noticias.unab.cl/estudiante-de-derecho-unab-presento-investigacion-sobre-el-derecho-al-olvido-en-jornadas-nacionales-de-derechos-humanos/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-11-12-at-1.40.58-PM-e1794589751596.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-13T17:12:39+00:00",
+   "visto": "2026-11-13T17:45:52.608235+00:00"
+  },
+  {
+   "id": "b13500394634f476",
+   "titulo": "Investigación de Ingeniería Comercial UDLA recibe reconocimiento en congreso internacional de administración y negocios",
+   "url": "https://actualidad.udla.cl/2026/11/investigacion-de-ingenieria-comercial-udla-recibe-reconocimiento-en-congreso-internacional-de-administracion-y-negocios/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Gonzalo-Morales-ASFAE-2-1024x768.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-13T16:30:52+00:00",
+   "visto": "2026-11-13T17:45:52.608235+00:00"
+  },
+  {
+   "id": "4bfc4f73b3438872",
+   "titulo": "Doctorado en Biomedicina UNAB obtiene cinco años de acreditación por la CNA Chile",
+   "url": "https://noticias.unab.cl/doctorado-en-biomedicina-unab-obtiene-cinco-anos-de-acreditacion-por-la-cna-chile/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": null,
+   "foto_buscada": true,
+   "fecha": "2026-11-13T16:27:45+00:00",
+   "visto": "2026-11-13T17:45:52.608235+00:00"
+  },
   {
    "id": "77f162aaeaa162f4",
    "titulo": "Startups 3IE-USM participan en el lanzamiento de nuevo programa CoCrea Valparaíso",
