@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15T09:29:09.046840+00:00",
+ "actualizado": "2026-11-15T17:13:13.459188+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -44,12 +44,12 @@
   },
   {
    "sigla": "USS",
-   "ok": false,
-   "metodo": null,
-   "url": null,
-   "revisadas": 0,
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://www.uss.cl/feed/",
+   "revisadas": 1,
    "filtradas": 0,
-   "error": "HTTP 403"
+   "error": null
   },
   {
    "sigla": "UNAB",
