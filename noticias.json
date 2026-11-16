@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T06:33:09.225703+00:00",
+ "actualizado": "2026-11-16T18:35:22.500190+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -44,12 +44,12 @@
   },
   {
    "sigla": "USS",
-   "ok": true,
-   "metodo": "RSS",
-   "url": "https://www.uss.cl/feed/",
-   "revisadas": 1,
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
    "filtradas": 0,
-   "error": null
+   "error": "HTTP 403"
   },
   {
    "sigla": "UNAB",
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 31,
+   "filtradas": 27,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 4,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -107,6 +107,45 @@
   }
  ],
  "noticias": [
+  {
+   "id": "6a1ba30f6e57de6d",
+   "titulo": "Startup 3IE-USM busca innovar en el mercado de las bebidas y explorar una segunda vida para sus residuos",
+   "url": "https://3ie.usm.cl/startup-3ie-usm-busca-innovar-en-el-mercado-de-las-bebidas-y-explorar-una-segunda-vida-para-sus-residuos/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Startups",
+    "MedioAmbiente",
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/11/Equipo-Animal-768x1024.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-16T18:24:42+00:00",
+   "visto": "2026-11-16T18:35:22.500190+00:00"
+  },
+  {
+   "id": "4ddb19b1cb5a512e",
+   "titulo": "Estudiante de Ingeniería Informática Online UDLA presenta investigación sobre Inteligencia Artificial y escritura científica en congreso internacional",
+   "url": "https://actualidad.udla.cl/2026/11/estudiante-de-ingenieria-informatica-online-udla-presenta-investigacion-sobre-inteligencia-artificial-y-escritura-cientifica-en-congreso-internacional/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "IA",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Foto-Emilio-Flores-congreso-2-1-1024x767.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-16T17:45:22+00:00",
+   "visto": "2026-11-16T18:35:22.500190+00:00"
+  },
   {
    "id": "876b626cd36f0d5f",
    "titulo": "¿Qué nos enseñan los Premios Nobel 2026? Investigadores UCSC analizan su impacto en la ciencia y la sociedad",
