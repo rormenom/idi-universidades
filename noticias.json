@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T02:56:26.178887+00:00",
+ "actualizado": "2026-11-17T13:28:53.451398+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 0,
+   "filtradas": 1,
    "error": null
   },
   {
@@ -21,7 +21,7 @@
    "metodo": "RSS",
    "url": "https://noticias.ubiobio.cl/feed/",
    "revisadas": 20,
-   "filtradas": 2,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -53,12 +53,12 @@
   },
   {
    "sigla": "UNAB",
-   "ok": false,
-   "metodo": null,
-   "url": null,
-   "revisadas": 0,
-   "filtradas": 0,
-   "error": "HTTP 503"
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://noticias.unab.cl/feed/",
+   "revisadas": 200,
+   "filtradas": 28,
+   "error": null
   },
   {
    "sigla": "UST",
@@ -107,6 +107,97 @@
   }
  ],
  "noticias": [
+  {
+   "id": "b944e0d25da23676",
+   "titulo": "SRS 2026 reúne a especialistas de 15 países y proyecta liderazgo internacional de INCAR² en investigación acuícola",
+   "url": "https://noticias.udec.cl/srs-2026-reune-a-especialistas-de-15-paises-y-proyecta-liderazgo-internacional-de-incar%c2%b2-en-investigacion-acuicola/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/Estudiantes-Premiados-1-scaled-e1794920832908.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T13:20:52+00:00",
+   "visto": "2026-11-17T13:28:53.451398+00:00"
+  },
+  {
+   "id": "b8c71684bc484362",
+   "titulo": "Estudiantes de International College e Ingeniería UNAB participan en experiencia intensiva de innovación y desarrollo tecnológico",
+   "url": "https://noticias.unab.cl/estudiantes-de-international-college-e-ingenieria-unab-participan-en-experiencia-intensiva-de-innovacion-y-desarrollo-tecnologico/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/20261106_182600-1-1.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T12:43:59+00:00",
+   "visto": "2026-11-17T13:28:53.451398+00:00"
+  },
+  {
+   "id": "93df5302507da069",
+   "titulo": "Investigación UCSC revela cómo la sardina común mantiene sus reservas energéticas durante su ciclo reproductivo",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/investigacion-ucsc-revela-como-la-sardina-comun-mantiene-sus-reservas-energeticas-durante-su-ciclo-reproductivo/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/2.jpeg?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T12:00:00+00:00",
+   "visto": "2026-11-17T13:28:53.451398+00:00"
+  },
+  {
+   "id": "7c13ddb192410fa0",
+   "titulo": "Directora nacional de ANID destaca el trabajo de la Universidad del Bío-Bío",
+   "url": "https://noticias.ubiobio.cl/2026/11/17/directora-nacional-de-anid-destaca-el-trabajo-de-la-universidad-del-bio-bio/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "ANID",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/IMG_4458.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T11:34:21+00:00",
+   "visto": "2026-11-17T13:28:53.451398+00:00"
+  },
+  {
+   "id": "e502d844103304b7",
+   "titulo": "Nanoprobióticos: investigador UNAB fortalece colaboración científica con universidad suiza",
+   "url": "https://noticias.unab.cl/nanoprobioticos-investigador-unab-fortalece-colaboracion-cientifica-con-universidad-suiza/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Joa-Univ-Zurich-Zentrum_800x533.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-16T20:43:45+00:00",
+   "visto": "2026-11-17T13:28:53.451398+00:00"
+  },
   {
    "id": "6a1ba30f6e57de6d",
    "titulo": "Startup 3IE-USM busca innovar en el mercado de las bebidas y explorar una segunda vida para sus residuos",
