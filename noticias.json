@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T18:35:22.500190+00:00",
+ "actualizado": "2026-11-17T02:56:26.178887+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -21,7 +21,7 @@
    "metodo": "RSS",
    "url": "https://noticias.ubiobio.cl/feed/",
    "revisadas": 20,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 2,
+   "filtradas": 1,
    "error": null
   },
   {
@@ -53,12 +53,12 @@
   },
   {
    "sigla": "UNAB",
-   "ok": true,
-   "metodo": "RSS",
-   "url": "https://noticias.unab.cl/feed/",
-   "revisadas": 200,
-   "filtradas": 27,
-   "error": null
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
+   "filtradas": 0,
+   "error": "HTTP 503"
   },
   {
    "sigla": "UST",
