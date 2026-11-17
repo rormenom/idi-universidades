@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T13:28:53.451398+00:00",
+ "actualizado": "2026-11-17T22:25:56.782723+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 28,
+   "filtradas": 26,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -107,6 +107,98 @@
   }
  ],
  "noticias": [
+  {
+   "id": "27fe67c04d0e9ce8",
+   "titulo": "Académica investigadora UDLA presenta proyecto sobre Inteligencia Artificial y aprendizaje basado en casos en congreso internacional",
+   "url": "https://actualidad.udla.cl/2026/11/academica-investigadora-udla-presenta-proyecto-sobre-inteligencia-artificial-y-aprendizaje-basado-en-casos-en-congreso-internacional/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "IA",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Maria-lORENA-2.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T21:58:13+00:00",
+   "visto": "2026-11-17T22:25:56.782723+00:00"
+  },
+  {
+   "id": "4610ec12c041c6ac",
+   "titulo": "Académica investigadora UDLA analiza los desafíos jurídicos de la soberanía chilena sobre el Estrecho de Magallanes en Coloquios de Derecho Internacional",
+   "url": "https://actualidad.udla.cl/2026/11/academica-investigadora-udla-analiza-los-desafios-juridicos-de-la-soberania-chilena-sobre-el-estrecho-de-magallanes-en-coloquios-de-derecho-internacional/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Maria-Lorena.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T21:49:25+00:00",
+   "visto": "2026-11-17T22:25:56.782723+00:00"
+  },
+  {
+   "id": "3a373415e52dfbf0",
+   "titulo": "Más de 160 proyectos se presentaron en la Feria de Ciencias e Investigación 2026",
+   "url": "https://www.udd.cl/noticias/2026/11/17/mas-de-160-proyectos-se-presentaron-en-la-feria-de-ciencias-e-investigacion-2026/",
+   "sigla": "UDD",
+   "universidad": "Universidad del Desarrollo",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://www.udd.cl/wp-content/uploads/2026/11/dsc6592-3-960x640.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T19:26:35+00:00",
+   "visto": "2026-11-17T22:25:56.782723+00:00"
+  },
+  {
+   "id": "f2a7cc15abfd6611",
+   "titulo": "Terapia Ocupacional UNAB presentó investigaciones sobre rehabilitación y tecnología 3D en jornadas científicas",
+   "url": "https://noticias.unab.cl/terapia-ocupacional-unab-presento-investigaciones-sobre-rehabilitacion-y-tecnologia-3d-en-jornadas-cientificas/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/FOTO-2-SIBILA-FLORIANO.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T16:37:08+00:00",
+   "visto": "2026-11-17T22:25:56.782723+00:00"
+  },
+  {
+   "id": "cb6a018848e7bf44",
+   "titulo": "Iniciativas de la comunidad UdeC reciben reconocimientos en los Premios a la Innovación de CPC Biobío",
+   "url": "https://noticias.udec.cl/iniciativas-de-la-comunidad-udec-reciben-reconocimientos-en-los-premios-a-la-innovacion-de-cpc-biobio/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Biobío",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/PremiosalaInnovacion2026-CPCBIOBIO92-1280x853-1.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-17T15:44:59+00:00",
+   "visto": "2026-11-17T22:25:56.782723+00:00"
+  },
   {
    "id": "b944e0d25da23676",
    "titulo": "SRS 2026 reúne a especialistas de 15 países y proyecta liderazgo internacional de INCAR² en investigación acuícola",
