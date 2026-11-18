@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T07:31:00.840992+00:00",
+ "actualizado": "2026-11-18T17:16:51.330151+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 1,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 26,
+   "filtradas": 22,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 2,
+   "filtradas": 5,
    "error": null
   },
   {
@@ -107,6 +107,82 @@
   }
  ],
  "noticias": [
+  {
+   "id": "dd20dfdb63fd286a",
+   "titulo": "Académico del Doctorado en Bienestar Humano, Salud y Sociedad de UDLA aborda en EmolTV el vínculo entre investigación, territorio y comunidades",
+   "url": "https://actualidad.udla.cl/2026/11/academico-del-doctorado-en-bienestar-humano-salud-y-sociedad-de-udla-aborda-en-emoltv-el-vinculo-entre-investigacion-territorio-y-comunidades/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Salud",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/DSC00327-copia-1-1024x739.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T16:12:32+00:00",
+   "visto": "2026-11-18T17:16:51.330151+00:00"
+  },
+  {
+   "id": "36b7f9adc2841170",
+   "titulo": "Academia, industria y emprendimiento participan del IV Congreso de Investigación en Data Science organizado por UDLA",
+   "url": "https://actualidad.udla.cl/2026/11/academia-industria-y-emprendimiento-participan-del-iv-congreso-de-investigacion-en-data-science-organizado-por-udla/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D",
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/IMG_5922-1024x683.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T15:24:30+00:00",
+   "visto": "2026-11-18T17:16:51.330151+00:00"
+  },
+  {
+   "id": "6340b008e2397f31",
+   "titulo": "UCSC reunió a especialistas en periodismo científico para reflexionar sobre la cultura oceánica",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/ucsc-reunio-a-especialistas-en-periodismo-cientifico-para-reflexionar-sobre-la-cultura-oceanica/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/portada-web-foro.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T15:10:52+00:00",
+   "visto": "2026-11-18T17:16:51.330151+00:00"
+  },
+  {
+   "id": "adb37fb4a6b6622b",
+   "titulo": "Académicos de UDLA obtienen protección por diseño industrial de Inapi para su creación Minions",
+   "url": "https://actualidad.udla.cl/2026/11/udla-proteccion-diseno-industrial-inapi/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Patentes",
+    "Innovación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Proteccion-por-diseno-industrial-UDLA-1024x683.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T14:14:17+00:00",
+   "visto": "2026-11-18T17:16:51.330151+00:00"
+  },
   {
    "id": "27fe67c04d0e9ce8",
    "titulo": "Académica investigadora UDLA presenta proyecto sobre Inteligencia Artificial y aprendizaje basado en casos en congreso internacional",
