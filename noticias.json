@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T10:23:51.223852+00:00",
+ "actualizado": "2026-11-19T20:39:35.738247+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -21,7 +21,7 @@
    "metodo": "RSS",
    "url": "https://noticias.ubiobio.cl/feed/",
    "revisadas": 20,
-   "filtradas": 4,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 3,
+   "filtradas": 4,
    "error": null
   },
   {
@@ -39,17 +39,17 @@
    "metodo": "RSS",
    "url": "https://www.udd.cl/feed/",
    "revisadas": 9,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
    "sigla": "USS",
-   "ok": true,
-   "metodo": "RSS",
-   "url": "https://www.uss.cl/feed/",
-   "revisadas": 1,
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
    "filtradas": 0,
-   "error": null
+   "error": "HTTP 403"
   },
   {
    "sigla": "UNAB",
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 23,
+   "filtradas": 22,
    "error": null
   },
   {
@@ -107,6 +107,116 @@
   }
  ],
  "noticias": [
+  {
+   "id": "78c206b50eafd835",
+   "titulo": "Congreso Internacional en Investigación de las Artes celebrará su tercera versión en la UdeC",
+   "url": "https://noticias.udec.cl/congreso-internacional-en-investigacion-de-las-artes-celebrara-su-tercera-version-en-la-udec/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": null,
+   "foto_buscada": true,
+   "fecha": "2026-11-19T20:20:07+00:00",
+   "visto": "2026-11-19T20:39:35.738247+00:00"
+  },
+  {
+   "id": "7b3c843a1fa642e3",
+   "titulo": "Proyecto Fondecyt liderado por académico UNAB abordó crisis contemporáneas en La Serena",
+   "url": "https://noticias.unab.cl/proyecto-fondecyt-liderado-por-academico-unab-abordo-crisis-contemporaneas-en-la-serena/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Fondecyt",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/02/Borja-Castro-e1788873111533.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-19T19:33:20+00:00",
+   "visto": "2026-11-19T20:39:35.738247+00:00"
+  },
+  {
+   "id": "52071a1b6b866e46",
+   "titulo": "Académicos investigadores de la Escuela de Animación UDLA se presentan en el en Festival Internacional de Animación ANIMA Córdoba",
+   "url": "https://actualidad.udla.cl/2026/11/academicos-animacion-udla-anima-cordoba/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/IMG_20261013_091710-1024x768.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-19T19:11:13+00:00",
+   "visto": "2026-11-19T20:39:35.738247+00:00"
+  },
+  {
+   "id": "08037e0e68bad396",
+   "titulo": "Doctorado en Administración UCSC obtiene cuatro años de acreditación",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/doctorado-administracion-ucsc-acreditacion/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/Facea.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-19T18:42:56+00:00",
+   "visto": "2026-11-19T20:39:35.738247+00:00"
+  },
+  {
+   "id": "41c288cd9e9da4f5",
+   "titulo": "Académica UNAB presenta avances de investigación Fondecyt sobre Trabajo Social latinoamericano",
+   "url": "https://noticias.unab.cl/academica-unab-presenta-avances-de-investigacion-fondecyt-sobre-trabajo-social-latinoamericano/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Fondecyt",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Historia-y-Trabajo-Social-e1795112953714.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-19T18:29:39+00:00",
+   "visto": "2026-11-19T20:39:35.738247+00:00"
+  },
+  {
+   "id": "29fe2965e55d9923",
+   "titulo": "Más allá de la conquista: investigadores analizan el legado cultural del poema La Araucana",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/poema-la-araucana-legado-chile/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/PORTADA-PARA-WEB-12.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-19T13:00:00+00:00",
+   "visto": "2026-11-19T20:39:35.738247+00:00"
+  },
   {
    "id": "63051375d653d055",
    "titulo": "¿Se puede predecir una erupción volcánica? Los límites de la vigilancia científica",
