@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T17:16:51.330151+00:00",
+ "actualizado": "2026-11-19T00:24:21.784280+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -21,7 +21,7 @@
    "metodo": "RSS",
    "url": "https://noticias.ubiobio.cl/feed/",
    "revisadas": 20,
-   "filtradas": 3,
+   "filtradas": 4,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 2,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 22,
+   "filtradas": 23,
    "error": null
   },
   {
@@ -107,6 +107,96 @@
   }
  ],
  "noticias": [
+  {
+   "id": "63051375d653d055",
+   "titulo": "¿Se puede predecir una erupción volcánica? Los límites de la vigilancia científica",
+   "url": "https://noticias.udec.cl/se-puede-predecir-una-erupcion-volcanica-los-limites-de-la-vigilancia-cientifica/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/Volcan-Nevados-de-Chillan-28-de-octubre-Sernageomin-e1795028056619.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T19:19:41+00:00",
+   "visto": "2026-11-19T00:24:21.784280+00:00"
+  },
+  {
+   "id": "bd66029a69adf12d",
+   "titulo": "UCSC destaca por su productividad científica y colaboración internacional en ranking QS",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/ucsc-destaca-por-su-productividad-cientifica-y-colaboracion-internacional-en-ranking-qs/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/06/Campus-San-Andres-UCSC-scaled-eac45edc60.webp?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T18:42:03+00:00",
+   "visto": "2026-11-19T00:24:21.784280+00:00"
+  },
+  {
+   "id": "3da7a5f4046c0b5e",
+   "titulo": "Académicos de la UBB presentan sus investigaciones en la Bienal Iberoamericana de Diseño en Madrid",
+   "url": "https://noticias.ubiobio.cl/2026/11/18/academicos-de-la-ubb-presentan-sus-investigaciones-en-la-bienal-iberoamericana-de-diseno-en-madrid/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/00.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T18:38:24+00:00",
+   "visto": "2026-11-19T00:24:21.784280+00:00"
+  },
+  {
+   "id": "0083a25b768bfa82",
+   "titulo": "5° Festival Ladera Sur contó con destacada participación del Instituto 3IE-USM",
+   "url": "https://3ie.usm.cl/5-festival-ladera-sur-conto-con-destacada-participacion-del-instituto-3ie-usm/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/11/LaderaSur-2026-32-2-1024x428.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T18:16:49+00:00",
+   "visto": "2026-11-19T00:24:21.784280+00:00"
+  },
+  {
+   "id": "f01d8c4c4de9579d",
+   "titulo": "Académica UNAB impulsa agenda de prevención en congresos científicos de cuatro países",
+   "url": "https://noticias.unab.cl/academica-unab-impulsa-agenda-de-prevencion-en-congresos-cientificos-de-cuatro-paises/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Dra-Lanza-1.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-18T18:06:20+00:00",
+   "visto": "2026-11-19T00:24:21.784280+00:00"
+  },
   {
    "id": "dd20dfdb63fd286a",
    "titulo": "Académico del Doctorado en Bienestar Humano, Salud y Sociedad de UDLA aborda en EmolTV el vínculo entre investigación, territorio y comunidades",
