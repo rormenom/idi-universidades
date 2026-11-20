@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T12:55:49.802528+00:00",
+ "actualizado": "2026-11-20T21:49:52.514666+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 4,
+   "filtradas": 7,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 5,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -108,6 +108,137 @@
  ],
  "noticias": [
   {
+   "id": "6bce5ceaefd54e68",
+   "titulo": "UDLA promueve la investigación sobre bienestar y salud a través de seminario organizado por el Núcleo de Investigación en Nutrición y Ciencias Alimentarias",
+   "url": "https://actualidad.udla.cl/2026/11/udla-promueve-la-investigacion-sobre-bienestar-y-salud-a-traves-de-seminario-organizado-por-el-nucleo-de-investigacion-en-nutricion-y-ciencias-alimentarias/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Salud",
+    "Alimentos",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/WhatsApp-Image-2026-11-20-at-3.19.24-PM-1.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T18:23:16+00:00",
+   "visto": "2026-11-20T21:49:52.514666+00:00"
+  },
+  {
+   "id": "8779c965400d7465",
+   "titulo": "Investigador canadiense visita la UCSC para colaborar en proyecto Fondecyt sobre tsunamis",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/ucsc-investigacion-tsunamis-academico-canadiense/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Fondecyt",
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/DSC5149-scaled.jpg?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T16:09:23+00:00",
+   "visto": "2026-11-20T21:49:52.514666+00:00"
+  },
+  {
+   "id": "b74fcd2d59b80903",
+   "titulo": "Grupos consolidados de investigación UCSC proyectan nuevos desafíos para 2027",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/grupos-consolidados-investigacion-ucsc-2027/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/grupos-consolidados.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T15:55:34+00:00",
+   "visto": "2026-11-20T21:49:52.514666+00:00"
+  },
+  {
+   "id": "ce628a50182df7a5",
+   "titulo": "Ciencia abierta e inteligencia artificial: especialistas debaten en la UCSC sobre el futuro de la investigación",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/integridad-academica-inteligencia-artificial-ucsc/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "IA",
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/seminario-ciencia-abierta.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T14:36:34+00:00",
+   "visto": "2026-11-20T21:49:52.514666+00:00"
+  },
+  {
+   "id": "b7729654a6ec74e1",
+   "titulo": "Semillero UCSC destaca investigaciones sobre el patrimonio editorial del Biobío",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/semillero-ucsc-patrimonio-editorial-biobio/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Biobío",
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/siel.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T14:35:03+00:00",
+   "visto": "2026-11-20T21:49:52.514666+00:00"
+  },
+  {
+   "id": "77b5b75d144b3955",
+   "titulo": "Estudiantes de Trabajo Social UCSC asistirán a EtMday 2026 con proyecto de innovación de lengua de señas",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/estudiantes-de-trabajo-social-ucsc-asistiran-a-etmday-2026-con-proyecto-de-innovacion-de-lengua-de-senas/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Innovación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/nota-prensa-etmday.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T14:30:15+00:00",
+   "visto": "2026-11-20T21:49:52.514666+00:00"
+  },
+  {
+   "id": "ac79302070fdf207",
+   "titulo": "Dr. Andrés Rodríguez presentó en Prion 2026 investigación que aporta a diagnosticar la enfermedad de Creutzfeldt-Jakob",
+   "url": "https://noticias.ubiobio.cl/2026/11/20/dr-andres-rodriguez-presento-en-prion-2026-investigacion-que-aporta-a-diagnosticar-la-enfermedad-de-creutzfeldt-jakob/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/01-1080x607.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T13:39:20+00:00",
+   "visto": "2026-11-20T21:49:52.514666+00:00"
+  },
+  {
    "id": "78c206b50eafd835",
    "titulo": "Congreso Internacional en Investigación de las Artes celebrará su tercera versión en la UdeC",
    "url": "https://noticias.udec.cl/congreso-internacional-en-investigacion-de-las-artes-celebrara-su-tercera-version-en-la-udec/",
@@ -139,7 +270,7 @@
     "Fondecyt",
     "Investigación"
    ],
-   "imagen": "https://noticias.unab.cl/assets/uploads/2026/02/Borja-Castro-e1788873111533.jpeg",
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Seminario-Internacional_CRA07-700x467.jpg.webp",
    "foto_buscada": true,
    "fecha": "2026-11-19T19:33:20+00:00",
    "visto": "2026-11-19T20:39:35.738247+00:00"
