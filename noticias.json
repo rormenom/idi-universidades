@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21T03:14:15.417867+00:00",
+ "actualizado": "2026-11-21T12:40:58.742673+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -89,12 +89,12 @@
   },
   {
    "sigla": "3IE-USM",
-   "ok": false,
-   "metodo": null,
-   "url": null,
-   "revisadas": 0,
-   "filtradas": 0,
-   "error": "sin titulares"
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://3ie.usm.cl/feed/",
+   "revisadas": 10,
+   "filtradas": 8,
+   "error": null
   },
   {
    "sigla": "UCT-DIRITT",
