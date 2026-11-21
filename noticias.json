@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T21:49:52.514666+00:00",
+ "actualizado": "2026-11-21T03:14:15.417867+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -44,12 +44,12 @@
   },
   {
    "sigla": "USS",
-   "ok": false,
-   "metodo": null,
-   "url": null,
-   "revisadas": 0,
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://www.uss.cl/feed/",
+   "revisadas": 1,
    "filtradas": 0,
-   "error": "HTTP 403"
+   "error": null
   },
   {
    "sigla": "UNAB",
@@ -89,12 +89,12 @@
   },
   {
    "sigla": "3IE-USM",
-   "ok": true,
-   "metodo": "RSS",
-   "url": "https://3ie.usm.cl/feed/",
-   "revisadas": 10,
-   "filtradas": 8,
-   "error": null
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
+   "filtradas": 0,
+   "error": "sin titulares"
   },
   {
    "sigla": "UCT-DIRITT",
