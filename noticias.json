@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T17:50:50.673658+00:00",
+ "actualizado": "2026-11-22T23:38:19.612686+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -26,12 +26,12 @@
   },
   {
    "sigla": "UCSC",
-   "ok": true,
-   "metodo": "RSS",
-   "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
-   "revisadas": 10,
-   "filtradas": 7,
-   "error": null
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
+   "filtradas": 0,
+   "error": "ConnectionError"
   },
   {
    "sigla": "UDD",
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 2,
+   "filtradas": 1,
    "error": null
   },
   {
