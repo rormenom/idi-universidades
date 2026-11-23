@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T07:42:09.210318+00:00",
+ "actualizado": "2026-11-23T20:16:16.648590+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 1,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 22,
+   "filtradas": 21,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 2,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -107,6 +107,100 @@
   }
  ],
  "noticias": [
+  {
+   "id": "84adb219c41d42f8",
+   "titulo": "Seminario de Psicología Educacional reúne investigación y experiencias escolares para abordar desafíos de inclusión y convivencia",
+   "url": "https://noticias.udec.cl/seminario-de-psicologia-educacional-reune-investigacion-y-experiencias-escolares-para-abordar-desafios-de-inclusion-y-convivencia/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/Area-Psicologia-Educacional-UdeC-e1795458023367.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T18:33:37+00:00",
+   "visto": "2026-11-23T20:16:16.648590+00:00"
+  },
+  {
+   "id": "431a1fd262213d81",
+   "titulo": "Académica UNAB presenta investigación sobre inasistencia en educación parvularia en Ministerio de Desarrollo Social",
+   "url": "https://noticias.unab.cl/academica-unab-presenta-investigacion-sobre-inasistencia-en-educacion-parvularia-en-ministerio-de-desarrollo-social/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-11-20-at-16.29.05-e1795453299191.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T17:00:46+00:00",
+   "visto": "2026-11-23T20:16:16.648590+00:00"
+  },
+  {
+   "id": "d400243ee5c67746",
+   "titulo": "Investigador de UDLA obtiene financiamiento internacional para estudiar la restauración de zonas secas en América Latina",
+   "url": "https://actualidad.udla.cl/2026/11/investigador-de-udla-obtiene-financiamiento-internacional-para-estudiar-la-restauracion-de-zonas-secas-en-america-latina/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Nicolas-Velasco_03-1024x796.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T16:07:15+00:00",
+   "visto": "2026-11-23T20:16:16.648590+00:00"
+  },
+  {
+   "id": "275dc181ce53d34a",
+   "titulo": "Charlas científicas acercan el conocimiento sobre hongos, polen y bosque patagónico a comunidades de Aysén",
+   "url": "https://noticias.udec.cl/charlas-cientificas-acercan-el-conocimiento-sobre-hongos-polen-y-bosque-patagonico-a-comunidades-de-aysen/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Forestal",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/WhatsApp-Image-2026-11-16-at-9.27.38-AM-e1795446212118.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T15:27:35+00:00",
+   "visto": "2026-11-23T20:16:16.648590+00:00"
+  },
+  {
+   "id": "73f4dbbee72bc62e",
+   "titulo": "Centro de Energía UCSC lanza semillero para formar estudiantes en investigación aplicada",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/centro-de-energia-ucsc-lanza-semillero-para-formar-estudiantes-en-investigacion-aplicada/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Energía",
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/WhatsApp-Image-2026-11-22-at-15.15.51.jpeg?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T12:00:00+00:00",
+   "visto": "2026-11-23T20:16:16.648590+00:00"
+  },
   {
    "id": "d6bf9e6ef0c9f4a4",
    "titulo": "Directora Académica de Campus Los Castaños presenta investigación sobre educación para la ciudadanía global en Barcelona",
