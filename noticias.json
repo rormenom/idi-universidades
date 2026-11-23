@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T23:38:19.612686+00:00",
+ "actualizado": "2026-11-23T07:42:09.210318+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -26,12 +26,12 @@
   },
   {
    "sigla": "UCSC",
-   "ok": false,
-   "metodo": null,
-   "url": null,
-   "revisadas": 0,
-   "filtradas": 0,
-   "error": "ConnectionError"
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
+   "revisadas": 10,
+   "filtradas": 7,
+   "error": null
   },
   {
    "sigla": "UDD",
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 1,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -107,6 +107,25 @@
   }
  ],
  "noticias": [
+  {
+   "id": "d6bf9e6ef0c9f4a4",
+   "titulo": "Directora Académica de Campus Los Castaños presenta investigación sobre educación para la ciudadanía global en Barcelona",
+   "url": "https://actualidad.udla.cl/2026/11/directora-academica-de-campus-los-castanos-presenta-investigacion-sobre-educacion-para-la-ciudadania-global-en-barcelona/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Daniela-Velasquez-UDLA-Barcelona-1024x731.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-20T19:39:00+00:00",
+   "visto": "2026-11-23T07:42:09.210318+00:00"
+  },
   {
    "id": "6bce5ceaefd54e68",
    "titulo": "UDLA promueve la investigación sobre bienestar y salud a través de seminario organizado por el Núcleo de Investigación en Nutrición y Ciencias Alimentarias",
