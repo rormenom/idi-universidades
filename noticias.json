@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23T20:16:16.648590+00:00",
+ "actualizado": "2026-11-24T04:50:36.174807+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 2,
+   "filtradas": 4,
    "error": null
   },
   {
@@ -26,12 +26,12 @@
   },
   {
    "sigla": "UCSC",
-   "ok": true,
-   "metodo": "RSS",
-   "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
-   "revisadas": 10,
-   "filtradas": 7,
-   "error": null
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
+   "filtradas": 0,
+   "error": "ConnectionError"
   },
   {
    "sigla": "UDD",
@@ -44,12 +44,12 @@
   },
   {
    "sigla": "USS",
-   "ok": false,
-   "metodo": null,
-   "url": null,
-   "revisadas": 0,
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://www.uss.cl/feed/",
+   "revisadas": 1,
    "filtradas": 0,
-   "error": "HTTP 403"
+   "error": null
   },
   {
    "sigla": "UNAB",
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 21,
+   "filtradas": 22,
    "error": null
   },
   {
@@ -107,6 +107,64 @@
   }
  ],
  "noticias": [
+  {
+   "id": "69c1cb6e47258338",
+   "titulo": "Participantes del Programa de Apoyo al Emprendimiento Innovador del Endowment UNAB fueron parte de EtMday 2026",
+   "url": "https://noticias.unab.cl/participantes-del-programa-de-apoyo-al-emprendimiento-innovador-del-endowment-unab-fueron-parte-de-etmday-2026/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/IMG_1890-scaled.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T01:25:15+00:00",
+   "visto": "2026-11-24T04:50:36.174807+00:00"
+  },
+  {
+   "id": "d180fdad8c726fe8",
+   "titulo": "Universidad de Concepción destaca con soluciones tecnológicas, innovaciones y reconocimientos en ETM Day 2026",
+   "url": "https://noticias.udec.cl/universidad-de-concepcion-destaca-con-soluciones-tecnologicas-innovaciones-y-reconocimientos-en-etm-day-2026/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Biobío",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/WhatsApp-Image-2026-11-23-at-3.30.05-PM-e1795463447831.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T20:01:53+00:00",
+   "visto": "2026-11-24T04:50:36.174807+00:00"
+  },
+  {
+   "id": "0b422fc300a21fb2",
+   "titulo": "Spinoff UdeC culmina su primera etapa de formación con la presentación de ocho proyectos de base científico-tecnológica",
+   "url": "https://noticias.udec.cl/spinoff-udec-culmina-su-primera-etapa-de-formacion-con-la-presentacion-de-ocho-proyectos-de-base-cientifico-tecnologica/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D",
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "TransferenciaTecnológica",
+    "Investigación",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/IMG_2056.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T19:29:07+00:00",
+   "visto": "2026-11-24T04:50:36.174807+00:00"
+  },
   {
    "id": "84adb219c41d42f8",
    "titulo": "Seminario de Psicología Educacional reúne investigación y experiencias escolares para abordar desafíos de inclusión y convivencia",
