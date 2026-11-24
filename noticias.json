@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T04:50:36.174807+00:00",
+ "actualizado": "2026-11-24T17:48:00.255232+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 4,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -26,12 +26,12 @@
   },
   {
    "sigla": "UCSC",
-   "ok": false,
-   "metodo": null,
-   "url": null,
-   "revisadas": 0,
-   "filtradas": 0,
-   "error": "ConnectionError"
+   "ok": true,
+   "metodo": "RSS",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
+   "revisadas": 10,
+   "filtradas": 8,
+   "error": null
   },
   {
    "sigla": "UDD",
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 22,
+   "filtradas": 24,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -107,6 +107,120 @@
   }
  ],
  "noticias": [
+  {
+   "id": "75bb9100267a9878",
+   "titulo": "Investigador UNAB presentó en Brasil estudio sobre el espacio público y las personas en situación de calle",
+   "url": "https://noticias.unab.cl/investigador-unab-presento-en-brasil-estudio-sobre-el-espacio-publico-y-las-personas-en-situacion-de-calle/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-08-07-at-12.27.22-1-e1795542040629.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T17:40:54+00:00",
+   "visto": "2026-11-24T17:48:00.255232+00:00"
+  },
+  {
+   "id": "6a71b6db30d2635d",
+   "titulo": "Investigador UNAB presentó en Portugal estudio pionero sobre Vivienda Primero en Chile",
+   "url": "https://noticias.unab.cl/investigador-unab-presento-en-portugal-estudio-pionero-sobre-vivienda-primero-en-chile/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Construcción",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-09-28-at-10.48.24-1-e1795541307920.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T17:28:39+00:00",
+   "visto": "2026-11-24T17:48:00.255232+00:00"
+  },
+  {
+   "id": "bc0d3af361e408ce",
+   "titulo": "UNAB reunió a investigadores nacionales e internacionales en congreso sobre bienestar",
+   "url": "https://noticias.unab.cl/unab-reunio-a-investigadores-nacionales-e-internacionales-en-congreso-sobre-bienestar/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/II-Congreso-Chileno-Investigadores-Bienestar-8100-700x467-1.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T17:07:29+00:00",
+   "visto": "2026-11-24T17:48:00.255232+00:00"
+  },
+  {
+   "id": "5ce36063f816be84",
+   "titulo": "UNAB participa en EtMday 2026 y reafirma compromiso con el emprendimiento y la innovación",
+   "url": "https://noticias.unab.cl/unab-participa-en-etmday-2026-y-reafirma-compromiso-con-el-emprendimiento-y-la-innovacion/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia",
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/IMG_0882-2000x1333-1-1.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T13:54:26+00:00",
+   "visto": "2026-11-24T17:48:00.255232+00:00"
+  },
+  {
+   "id": "a52e15ba796beac9",
+   "titulo": "Centro de Energía UCSC suma académicos de Ingeniería y Educación para ampliar sus capacidades de investigación",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/centro-de-energia-ucsc-suma-academicos-de-ingenieria-y-educacion-para-ampliar-sus-capacidades-de-investigacion/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Energía",
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/img_nota_web_nuevos_investigadores.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T13:30:00+00:00",
+   "visto": "2026-11-24T17:48:00.255232+00:00"
+  },
+  {
+   "id": "b21f8c185723c396",
+   "titulo": "UCSC conoce modelos de innovación y transferencia tecnológica en Valencia",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/transferencia-tecnologica-ucsc-valencia-fiut/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "TransferenciaTecnológica",
+    "Innovación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/gira-tecnologica-2.png?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T13:00:00+00:00",
+   "visto": "2026-11-24T17:48:00.255232+00:00"
+  },
   {
    "id": "69c1cb6e47258338",
    "titulo": "Participantes del Programa de Apoyo al Emprendimiento Innovador del Endowment UNAB fueron parte de EtMday 2026",
@@ -239,6 +353,24 @@
    "foto_buscada": true,
    "fecha": "2026-11-23T15:27:35+00:00",
    "visto": "2026-11-23T20:16:16.648590+00:00"
+  },
+  {
+   "id": "f075aab90cc97c53",
+   "titulo": "UCSC gana el primer lugar nacional en el Rally Latinoamericano de Innovación",
+   "url": "https://ucsc.cl/medios-ucsc/noticias/2026/11/ucsc-gana-el-primer-lugar-nacional-en-el-rally-latinoamericano-de-innovacion/",
+   "sigla": "UCSC",
+   "universidad": "Universidad Católica de la Santísima Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Innovación"
+   ],
+   "imagen": "https://ucsc-staging-20260409.b-cdn.net/uploads/2026/11/7-scaled.jpg?class=full",
+   "foto_buscada": true,
+   "fecha": "2026-11-23T12:48:00+00:00",
+   "visto": "2026-11-24T17:48:00.255232+00:00"
   },
   {
    "id": "73f4dbbee72bc62e",
