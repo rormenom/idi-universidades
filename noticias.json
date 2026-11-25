@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T02:31:26.609269+00:00",
+ "actualizado": "2026-11-25T14:25:19.416053+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -21,7 +21,7 @@
    "metodo": "RSS",
    "url": "https://noticias.ubiobio.cl/feed/",
    "revisadas": 20,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 8,
+   "filtradas": 7,
    "error": null
   },
   {
@@ -47,7 +47,7 @@
    "ok": true,
    "metodo": "HTML",
    "url": "https://www.uss.cl/noticias/",
-   "revisadas": 1,
+   "revisadas": 2,
    "filtradas": 0,
    "error": null
   },
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 26,
+   "filtradas": 24,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 4,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -107,6 +107,45 @@
   }
  ],
  "noticias": [
+  {
+   "id": "2409a6f5358bf85c",
+   "titulo": "Nuevo Minor en Innovación y Emprendimiento promueve la formación integral vinculada a los desafíos de la sociedad",
+   "url": "https://noticias.udec.cl/nuevo-minor-en-innovacion-y-emprendimiento-promueve-la-formacion-integral-vinculada-a-los-desafios-de-la-sociedad/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia",
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/UdeC-embanderada-14.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-25T13:46:01+00:00",
+   "visto": "2026-11-25T14:25:19.416053+00:00"
+  },
+  {
+   "id": "cfc75c5a544403c4",
+   "titulo": "Tras medio siglo, Generación 1976 de Odontología recibió sus certificados de licenciatura en la UdeC",
+   "url": "https://noticias.udec.cl/tras-medio-siglo-generacion-1976-de-odontologia-recibio-sus-certificados-de-licenciatura-en-la-udec/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "TransferenciaTecnológica",
+    "Innovación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/1795176765668-1-scaled-e1795447734515.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-25T11:50:39+00:00",
+   "visto": "2026-11-25T14:25:19.416053+00:00"
+  },
   {
    "id": "853b9e70f78b74af",
    "titulo": "Estudiantes y académicos de Doctorados UNAB participan en simposio internacional en Colombia",
