@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T17:48:00.255232+00:00",
+ "actualizado": "2026-11-25T02:31:26.609269+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -39,14 +39,14 @@
    "metodo": "RSS",
    "url": "https://www.udd.cl/feed/",
    "revisadas": 9,
-   "filtradas": 2,
+   "filtradas": 1,
    "error": null
   },
   {
    "sigla": "USS",
    "ok": true,
-   "metodo": "RSS",
-   "url": "https://www.uss.cl/feed/",
+   "metodo": "HTML",
+   "url": "https://www.uss.cl/noticias/",
    "revisadas": 1,
    "filtradas": 0,
    "error": null
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 24,
+   "filtradas": 26,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 2,
+   "filtradas": 4,
    "error": null
   },
   {
@@ -93,7 +93,7 @@
    "metodo": "RSS",
    "url": "https://3ie.usm.cl/feed/",
    "revisadas": 10,
-   "filtradas": 8,
+   "filtradas": 9,
    "error": null
   },
   {
@@ -107,6 +107,118 @@
   }
  ],
  "noticias": [
+  {
+   "id": "853b9e70f78b74af",
+   "titulo": "Estudiantes y académicos de Doctorados UNAB participan en simposio internacional en Colombia",
+   "url": "https://noticias.unab.cl/estudiantes-y-academicos-de-doctorados-unab-participan-en-simposio-internacional-en-colombia/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Doctorados-UNAB-en-Colombia_800x533.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T21:31:02+00:00",
+   "visto": "2026-11-25T02:31:26.609269+00:00"
+  },
+  {
+   "id": "1f90964415eff353",
+   "titulo": "Doctoranda UNAB lidera investigación que revela cómo era una galaxia en el universo temprano",
+   "url": "https://noticias.unab.cl/doctoranda-unab-lidera-investigacion-que-revela-como-era-una-galaxia-en-el-universo-temprano/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Astronomía",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Arshi-Ali_estudio_800x533.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T19:40:32+00:00",
+   "visto": "2026-11-25T02:31:26.609269+00:00"
+  },
+  {
+   "id": "a1289844d272d2de",
+   "titulo": "Investigador UDLA presenta estudio en congreso internacional de nanotecnología IEEE LANANO 2026",
+   "url": "https://actualidad.udla.cl/2026/11/investigador-udla-presenta-estudio-en-congreso-internacional-de-nanotecnologia-ieee-lanano-2026/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/F3.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T19:29:21+00:00",
+   "visto": "2026-11-25T02:31:26.609269+00:00"
+  },
+  {
+   "id": "5c7a0ec1b60a6e10",
+   "titulo": "3IE-USM marcó presencia en masivo evento EtMday 2026",
+   "url": "https://3ie.usm.cl/3ie-usm-marco-presencia-en-masivo-evento-etmday-2026/",
+   "sigla": "3IE-USM",
+   "universidad": "Instituto 3IE (incubadora USM)",
+   "conce": false,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://3ie.usm.cl/wp-content/uploads/2026/11/IMG_1981-925x1024.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T19:19:11+00:00",
+   "visto": "2026-11-25T02:31:26.609269+00:00"
+  },
+  {
+   "id": "673950f80d3c5df8",
+   "titulo": "Investigador UNAB abordó desafíos de la situación de calle en conferencia latinoamericana en Uruguay",
+   "url": "https://noticias.unab.cl/investigador-unab-abordo-desafios-de-la-situacion-de-calle-en-conferencia-latinoamericana-en-uruguay/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-11-19-at-18.45.53-1-e1795546352648.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T18:58:16+00:00",
+   "visto": "2026-11-25T02:31:26.609269+00:00"
+  },
+  {
+   "id": "78772433330b5f7b",
+   "titulo": "Transferencia tecnológica, investigación y creación: UDLA presenta sus avances en encuentro de innovación EtMday",
+   "url": "https://actualidad.udla.cl/2026/11/transferencia-tecnologica-udla-etmday/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D",
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "TransferenciaTecnológica",
+    "Investigación",
+    "Innovación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Direccion-Desarrollo-Transferencia-768x1024.jpeg",
+   "foto_buscada": true,
+   "fecha": "2026-11-24T18:35:35+00:00",
+   "visto": "2026-11-25T02:31:26.609269+00:00"
+  },
   {
    "id": "75bb9100267a9878",
    "titulo": "Investigador UNAB presentó en Brasil estudio sobre el espacio público y las personas en situación de calle",
