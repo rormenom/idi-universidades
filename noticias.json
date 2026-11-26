@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T14:25:19.416053+00:00",
+ "actualizado": "2026-11-26T00:23:05.064056+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 7,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -107,6 +107,43 @@
   }
  ],
  "noticias": [
+  {
+   "id": "9f52e216c77304c6",
+   "titulo": "Instituto de Ecología y Biodiversidad celebra 20 años conectando investigación científica y conservación",
+   "url": "https://noticias.udec.cl/instituto-de-ecologia-y-biodiversidad-celebra-20-anos-conectando-investigacion-cientifica-y-conservacion/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "MedioAmbiente",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/06/Araucarias-9.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-25T15:35:57+00:00",
+   "visto": "2026-11-26T00:23:05.064056+00:00"
+  },
+  {
+   "id": "b5e75d2c2fc53466",
+   "titulo": "Director del CTEPP UNAB es nombrado delegado científico de Chile ante el CERN",
+   "url": "https://noticias.unab.cl/director-del-ctepp-unab-es-nombrado-delegado-cientifico-de-chile-ante-el-cern/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/JILBERTO-ZAMORA-SAA-1931-800x533-1.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-25T14:47:46+00:00",
+   "visto": "2026-11-26T00:23:05.064056+00:00"
+  },
   {
    "id": "2409a6f5358bf85c",
    "titulo": "Nuevo Minor en Innovación y Emprendimiento promueve la formación integral vinculada a los desafíos de la sociedad",
