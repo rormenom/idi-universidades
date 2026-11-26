@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T10:56:02.864564+00:00",
+ "actualizado": "2026-11-26T21:35:14.478375+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 2,
+   "filtradas": 1,
    "error": null
   },
   {
@@ -21,7 +21,7 @@
    "metodo": "RSS",
    "url": "https://noticias.ubiobio.cl/feed/",
    "revisadas": 20,
-   "filtradas": 2,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -30,7 +30,7 @@
    "metodo": "RSS",
    "url": "https://ucsc.cl/medios-ucsc/noticias/feed/",
    "revisadas": 10,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 24,
+   "filtradas": 23,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -107,6 +107,98 @@
   }
  ],
  "noticias": [
+  {
+   "id": "10a7e084864a6124",
+   "titulo": "Doctorado en Ciencias realizó su tercer Encuentro de Vinculación con el Medio",
+   "url": "https://noticias.ubiobio.cl/2026/11/26/doctorado-en-ciencias-realizo-su-tercer-encuentro-de-vinculacion-con-el-medio/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/1-2-1080x720.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-26T17:53:13+00:00",
+   "visto": "2026-11-26T21:35:14.478375+00:00"
+  },
+  {
+   "id": "0ea480550aa40f8b",
+   "titulo": "Investigación internacional con participación de académicos UDLA analiza las habilidades básicas en programas de postgrado de América Latina",
+   "url": "https://actualidad.udla.cl/2026/11/investigacion-internacional-con-participacion-de-academicos-udla-analiza-las-habilidades-basicas-en-programas-de-postgrado-de-america-latina/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/Ricardo-Monge-R-1.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-26T15:52:15+00:00",
+   "visto": "2026-11-26T21:35:14.478375+00:00"
+  },
+  {
+   "id": "9c1c4dcaa515f999",
+   "titulo": "Doctorado en Educación en Consorcio proyecta el conocimiento de sus graduados hacia la sociedad",
+   "url": "https://noticias.ubiobio.cl/2026/11/26/doctorado-en-educacion-en-consorcio-proyecta-el-conocimiento-de-sus-graduados-hacia-la-sociedad/",
+   "sigla": "UBB",
+   "universidad": "Universidad del Bío-Bío",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.ubiobio.cl/wp-content/uploads//2026/11/Imagen2-1080x720.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-26T15:37:46+00:00",
+   "visto": "2026-11-26T21:35:14.478375+00:00"
+  },
+  {
+   "id": "a5182d22abdc7146",
+   "titulo": "Emprendimiento de estudiante UNAB obtiene categoría oro en Jump Chile 2026 con innovadora proteína vegetal",
+   "url": "https://noticias.unab.cl/emprendimiento-de-estudiante-unab-obtiene-categoria-oro-en-jump-chile-2026-con-innovadora-proteina-vegetal/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/LemnaProt-2.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-26T15:24:20+00:00",
+   "visto": "2026-11-26T21:35:14.478375+00:00"
+  },
+  {
+   "id": "626589ee9536bf8c",
+   "titulo": "Proyecto Cerebro y Conducta convoca a participar en investigación sobre salud y daño cerebral",
+   "url": "https://noticias.udec.cl/proyecto-cerebro-y-conducta-convoca-a-participar-en-investigacion-sobre-salud-y-dano-cerebral/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Salud",
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/Proyecto-Cerebro-y-Conducta-1-e1795699946733-1200x630.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-26T13:35:24+00:00",
+   "visto": "2026-11-26T21:35:14.478375+00:00"
+  },
   {
    "id": "9f52e216c77304c6",
    "titulo": "Instituto de Ecología y Biodiversidad celebra 20 años conectando investigación científica y conservación",
