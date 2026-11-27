@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T04:16:30.223351+00:00",
+ "actualizado": "2026-11-27T13:59:15.511953+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -12,7 +12,7 @@
    "metodo": "RSS",
    "url": "https://noticias.udec.cl/feed/",
    "revisadas": 10,
-   "filtradas": 1,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -39,7 +39,7 @@
    "metodo": "RSS",
    "url": "https://www.udd.cl/feed/",
    "revisadas": 9,
-   "filtradas": 1,
+   "filtradas": 0,
    "error": null
   },
   {
@@ -107,6 +107,42 @@
   }
  ],
  "noticias": [
+  {
+   "id": "3ca33b328d174e71",
+   "titulo": "Investigadora de UDLA realiza encuentros académicos sobre historieta y estudios feministas en Alemania y Argentina",
+   "url": "https://actualidad.udla.cl/2026/11/estudios-feministas-historieta-investigadora-udla/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/WhatsApp-Image-2026-11-18-at-11.01.08-AM-2-1024x768.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T13:25:24+00:00",
+   "visto": "2026-11-27T13:59:15.511953+00:00"
+  },
+  {
+   "id": "928ca7c8d273aaf3",
+   "titulo": "UdeC integra consorcio internacional que permitirá avanzar en investigaciones de biología estructural",
+   "url": "https://noticias.udec.cl/udec-integra-consorcio-internacional-que-permitira-avanzar-en-investigaciones-de-biologia-estructural/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/05/05-11-cooperativa-ciencia-hanta.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T12:54:15+00:00",
+   "visto": "2026-11-27T13:59:15.511953+00:00"
+  },
   {
    "id": "10a7e084864a6124",
    "titulo": "Doctorado en Ciencias realizó su tercer Encuentro de Vinculación con el Medio",
