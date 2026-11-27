@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T13:59:15.511953+00:00",
+ "actualizado": "2026-11-27T22:43:43.099812+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -21,7 +21,7 @@
    "metodo": "RSS",
    "url": "https://noticias.ubiobio.cl/feed/",
    "revisadas": 20,
-   "filtradas": 3,
+   "filtradas": 2,
    "error": null
   },
   {
@@ -57,7 +57,7 @@
    "metodo": "RSS",
    "url": "https://noticias.unab.cl/feed/",
    "revisadas": 200,
-   "filtradas": 23,
+   "filtradas": 25,
    "error": null
   },
   {
@@ -75,7 +75,7 @@
    "metodo": "RSS",
    "url": "https://actualidad.udla.cl/feed/",
    "revisadas": 12,
-   "filtradas": 2,
+   "filtradas": 3,
    "error": null
   },
   {
@@ -107,6 +107,116 @@
   }
  ],
  "noticias": [
+  {
+   "id": "2db3de5f4e7edd09",
+   "titulo": "Futuras profesoras de Educación Diferencial presentan investigaciones sobre inclusión educativa",
+   "url": "https://actualidad.udla.cl/2026/11/vii-jornada-investigacion-educacion-diferencial-2026/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Educación",
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/IMG_8359-1024x683.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T21:22:14+00:00",
+   "visto": "2026-11-27T22:43:43.099812+00:00"
+  },
+  {
+   "id": "d0a766f8393ba7bf",
+   "titulo": "Estudiante del Doctorado en Humanidades Aplicadas UNAB realiza pasantía en Tecnológico de Monterrey",
+   "url": "https://noticias.unab.cl/estudiante-del-doctorado-en-humanidades-aplicadas-unab-realiza-pasantia-en-tecnologico-de-monterrey/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/WhatsApp-Image-2026-11-26-at-08.58.53-scaled-e1795809046473.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T19:52:36+00:00",
+   "visto": "2026-11-27T22:43:43.099812+00:00"
+  },
+  {
+   "id": "da79a1be873cb481",
+   "titulo": "Setenta estudiantes del Biobío se certificaron en el programa Jóvenes Emprendedoras Tech",
+   "url": "https://noticias.unab.cl/setenta-estudiantes-del-biobio-se-certificaron-en-el-programa-jovenes-emprendedoras-tech/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "Emprendimiento"
+   ],
+   "hashtags": [
+    "Emprendimiento",
+    "Biobío"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/foto_original_corregida_416x272.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T19:12:55+00:00",
+   "visto": "2026-11-27T22:43:43.099812+00:00"
+  },
+  {
+   "id": "c18cb7a8927b9d48",
+   "titulo": "Tech Horizon Ñuble conectó ciencia, tecnología e innovación con los desafíos productivos de la región",
+   "url": "https://noticias.udec.cl/tech-horizon-nuble-conecto-ciencia-tecnologia-e-innovacion-con-los-desafios-productivos-de-la-region/",
+   "sigla": "UdeC",
+   "universidad": "Universidad de Concepción",
+   "conce": true,
+   "categorias": [
+    "Innovación y transferencia"
+   ],
+   "hashtags": [
+    "Innovación"
+   ],
+   "imagen": "https://noticias.udec.cl/app/uploads/2026/11/26112026tech-horizon-Chillan-UDEC-111-1-scaled.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T18:21:57+00:00",
+   "visto": "2026-11-27T22:43:43.099812+00:00"
+  },
+  {
+   "id": "3c6422e0d5280043",
+   "titulo": "Estudiante de Doctorado UNAB profundizó en México investigación sobre cultura visual y memoria histórica",
+   "url": "https://noticias.unab.cl/estudiante-de-doctorado-unab-profundizo-en-mexico-investigacion-sobre-cultura-visual-y-memoria-historica/",
+   "sigla": "UNAB",
+   "universidad": "Universidad Andrés Bello",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://noticias.unab.cl/assets/uploads/2026/11/Alexis-Diaz-en-UABJO-e1795796468199.webp",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T16:25:00+00:00",
+   "visto": "2026-11-27T22:43:43.099812+00:00"
+  },
+  {
+   "id": "16c4814d92114ed5",
+   "titulo": "Investigadora española realiza ponencias en UDLA sobre la “Manosfera, Violencia Digital y Fake News”",
+   "url": "https://actualidad.udla.cl/2026/11/investigadora-espanola-realiza-ponencias-en-udla-sobre-la-manosfera-violencia-digital-y-fake-news/",
+   "sigla": "UDLA",
+   "universidad": "Universidad de Las Américas",
+   "conce": true,
+   "categorias": [
+    "I+D"
+   ],
+   "hashtags": [
+    "Investigación"
+   ],
+   "imagen": "https://actualidad.udla.cl/wp-content/uploads/sites/15/2026/11/AN_0037-1024x683.jpg",
+   "foto_buscada": true,
+   "fecha": "2026-11-27T13:59:52+00:00",
+   "visto": "2026-11-27T22:43:43.099812+00:00"
+  },
   {
    "id": "3ca33b328d174e71",
    "titulo": "Investigadora de UDLA realiza encuentros académicos sobre historieta y estudios feministas en Alemania y Argentina",
