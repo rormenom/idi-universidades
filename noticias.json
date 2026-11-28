@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28T07:52:47.055877+00:00",
+ "actualizado": "2026-11-28T16:54:27.079268+00:00",
  "categorias": [
   "I+D",
   "Innovación y transferencia",
@@ -71,12 +71,12 @@
   },
   {
    "sigla": "UDLA",
-   "ok": true,
-   "metodo": "RSS",
-   "url": "https://actualidad.udla.cl/feed/",
-   "revisadas": 12,
-   "filtradas": 3,
-   "error": null
+   "ok": false,
+   "metodo": null,
+   "url": null,
+   "revisadas": 0,
+   "filtradas": 0,
+   "error": "HTTP 403"
   },
   {
    "sigla": "USM",
